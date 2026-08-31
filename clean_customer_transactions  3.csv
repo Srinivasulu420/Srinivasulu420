@@ -1,0 +1,948 @@
+transaction_id,customer_id,customer_name,customer_email,date_of_birth,transaction_date,product_category,purchase_amount,shipping_country,transaction_year,transaction_month,customer_age,email_domain
+TXN10938,CUST-1068,Kevin Thomas,kevin.thomas@example.com,15-08-1971,13-05-2025,Sports & Outdoors,913.59,Germany,2025,5,54,example.com
+TXN10682,CUST-1073,Diana Moore,diana.moore@example.com,15-08-1953,28-02-2026,Books,948.88,United Kingdom,2026,2,73,example.com
+TXN10514,CUST-1079,Laura Martinez,laura.martinez@example.com,18-08-1994,29-11-2025,Electronics,372.9,Canada,2025,11,31,example.com
+TXN10365,CUST-1017,Hannah Johnson,hannah.johnson@example.com,02-12-2000,20-02-2025,Sports & Outdoors,148.74,Germany,2025,2,25,example.com
+TXN10655,CUST-1046,Hannah Thomas,hannah.thomas@example.com,23-11-1963,17-07-2025,Books,1062.83,Germany,2025,7,62,example.com
+TXN10656,CUST-1047,Ethan Miller,ethan.miller@example.com,01-04-1954,19-11-2024,Home & Kitchen,469.58,India,2024,11,70,example.com
+TXN10529,CUST-1007,Julia Johnson,julia.johnson@example.com,16-03-1981,17-04-2026,Sports & Outdoors,1117.36,United States,2026,4,45,example.com
+TXN10321,CUST-1060,Fiona Anderson,fiona.anderson@example.com,24-07-1981,26-08-2025,Apparel,687.99,United States,2025,8,44,example.com
+TXN10792,CUST-1009,Sarah Wilson,sarah.wilson@example.com,25-02-2004,13-05-2025,Apparel,523.76,Canada,2025,5,21,example.com
+TXN10371,CUST-1023,Jane Thomas,jane.thomas@example.com,08-12-1992,30-05-2026,Books,1076.95,United States,2026,5,34,example.com
+TXN10841,CUST-1058,Ethan Martin,ethan.martin@example.com,04-01-2014,13-09-2024,Sports & Outdoors,1155.04,United Kingdom,2024,9,10,example.com
+TXN10456,CUST-1021,Charlie Anderson,charlie.anderson@example.com,15-08-2011,17-07-2025,Apparel,664.25,United States,2025,7,14,example.com
+TXN10247,CUST-1073,Jane Smith,jane.smith@example.com,27-03-2002,12-10-2024,Home & Kitchen,850.07,United States,2024,10,22,example.com
+TXN10611,CUST-1002,Ian Garcia,ian.garcia@example.com,19-08-1960,07-03-2026,Electronics,121.23,United Kingdom,2026,3,66,example.com
+TXN10705,CUST-1009,Laura Miller,laura.miller@example.com,07-03-1961,12-09-2025,Books,1480.02,United States,2025,9,64,example.com
+TXN10982,CUST-1025,Kevin Martin,kevin.martin@example.com,27-09-1958,28-11-2024,Sports & Outdoors,905.44,United Kingdom,2024,11,66,example.com
+TXN10298,CUST-1037,Sarah Anderson,sarah.anderson@example.com,04-01-1956,16-10-2024,Books,153.46,United States,2024,10,68,example.com
+TXN10101,CUST-1014,Julia Taylor,julia.taylor@example.com,08-03-2005,22-01-2025,Books,819.75,United States,2025,1,20,example.com
+TXN10963,CUST-1006,Diana Anderson,diana.anderson@example.com,08-05-1999,29-10-2025,Books,152.1,United States,2025,10,26,example.com
+TXN10605,CUST-1083,Michael Thomas,michael.thomas@example.com,10-01-1964,04-06-2026,Sports & Outdoors,403.28,United States,2026,6,62,example.com
+TXN10213,CUST-1039,Bob Hernandez,bob.hernandez@example.com,16-12-1992,08-04-2026,Home & Kitchen,1157.6,United States,2026,4,34,example.com
+TXN10237,CUST-1063,Hannah Miller,hannah.miller@example.com,18-01-2009,23-05-2025,Books,638.34,Canada,2025,5,16,example.com
+TXN10593,CUST-1071,Hannah Hernandez,hannah.hernandez@example.com,17-05-1990,08-12-2024,Sports & Outdoors,1112.89,Australia,2024,12,34,example.com
+TXN10281,CUST-1020,Ian Thomas,ian.thomas@example.com,04-10-2000,28-07-2025,Apparel,742.75,United Kingdom,2025,7,25,example.com
+TXN10377,CUST-1029,John Rodriguez,john.rodriguez@example.com,20-08-1997,19-04-2025,Home & Kitchen,706.32,United Kingdom,2025,4,28,example.com
+TXN10286,CUST-1025,Sarah Hernandez,sarah.hernandez@example.com,06-08-2006,26-04-2026,Sports & Outdoors,956.08,United Kingdom,2026,4,20,example.com
+TXN10388,CUST-1040,Alice Rodriguez,alice.rodriguez@example.com,24-04-1995,08-09-2025,Books,449.16,Australia,2025,9,30,example.com
+TXN10885,CUST-1015,Kevin Brown,kevin.brown@example.com,10-04-1993,08-04-2025,Home & Kitchen,1215.18,United States,2025,4,32,example.com
+TXN10718,CUST-1022,Charlie Moore,charlie.moore@example.com,23-03-1993,11-09-2025,Electronics,270.72,United States,2025,9,32,example.com
+TXN10835,CUST-1052,Charlie Miller,charlie.miller@example.com,10-01-2003,02-10-2025,Home & Kitchen,983.85,Germany,2025,10,22,example.com
+TXN10096,CUST-1009,Kevin Thomas,kevin.thomas@example.com,02-08-1969,03-12-2026,Sports & Outdoors,1044.29,Germany,2026,12,57,example.com
+TXN10244,CUST-1070,George Hernandez,george.hernandez@example.com,07-03-1987,16-08-2025,Home & Kitchen,685.9,United Kingdom,2025,8,38,example.com
+TXN10736,CUST-1040,Sarah Wilson,sarah.wilson@example.com,18-09-1993,07-01-2026,Electronics,1056.75,United States,2026,1,33,example.com
+TXN10076,CUST-1076,Ian Davis,ian.davis@example.com,28-05-1956,17-03-2025,Electronics,483.85,United States,2025,3,69,example.com
+TXN10899,CUST-1029,Kevin Rodriguez,kevin.rodriguez@example.com,24-12-1979,17-12-2025,Books,621.41,India,2025,12,46,example.com
+TXN10209,CUST-1035,Hannah Martinez,hannah.martinez@example.com,23-12-1976,06-03-2025,Apparel,421.82,United Kingdom,2025,3,49,example.com
+TXN10259,CUST-1085,Kevin Johnson,kevin.johnson@example.com,23-04-1987,05-05-2026,Electronics,189.29,United States,2026,5,39,example.com
+TXN10158,CUST-1071,Diana Moore,diana.moore@example.com,12-07-1955,26-08-2024,Home & Kitchen,734.66,Germany,2024,8,69,example.com
+TXN10495,CUST-1060,Sarah Wilson,sarah.wilson@example.com,25-03-2012,11-02-2025,Apparel,337.03,Australia,2025,2,13,example.com
+TXN10526,CUST-1004,Ian Davis,ian.davis@example.com,18-12-1955,01-02-2025,Electronics,580.07,United Kingdom,2025,2,70,example.com
+TXN10331,CUST-1070,Laura Brown,laura.brown@example.com,15-04-1995,07-09-2025,Books,1023.72,United States,2025,9,30,example.com
+TXN10954,CUST-1084,John Doe,john.doe@example.com,22-01-1984,30-11-2024,Electronics,257.23,United States,2024,11,40,example.com
+TXN10314,CUST-1053,Alice Martinez,alice.martinez@example.com,28-12-2005,17-11-2025,Electronics,108.02,Canada,2025,11,20,example.com
+TXN10294,CUST-1033,Fiona Thomas,fiona.thomas@example.com,19-03-2012,10-10-2024,Apparel,453.33,United States,2024,10,12,example.com
+TXN10381,CUST-1033,George Martinez,george.martinez@example.com,13-07-1985,27-07-2025,Books,265.76,United Kingdom,2025,7,40,example.com
+TXN10922,CUST-1052,Ethan Johnson,ethan.johnson@example.com,01-07-1952,05-07-2026,Apparel,817.55,United States,2026,7,74,example.com
+TXN10981,CUST-1024,Charlie Brown,charlie.brown@example.com,23-02-1991,15-01-2025,Home & Kitchen,976.38,United States,2025,1,34,example.com
+TXN10877,CUST-1007,Charlie Doe,charlie.doe@example.com,27-09-1980,24-12-2024,Electronics,415.86,United Kingdom,2024,12,44,example.com
+TXN10621,CUST-1012,Ethan Anderson,ethan.anderson@example.com,26-10-1988,23-08-2024,Apparel,862.76,United Kingdom,2024,8,36,example.com
+TXN10935,CUST-1065,Ethan Doe,ethan.doe@example.com,05-04-1968,17-04-2026,Home & Kitchen,287.39,Unknown,2026,4,58,example.com
+TXN10059,CUST-1059,Ian Anderson,ian.anderson@example.com,25-05-1998,14-05-2025,Apparel,567.02,India,2025,5,27,example.com
+TXN10625,CUST-1016,Charlie Garcia,charlie.garcia@example.com,27-06-1999,18-05-2025,Home & Kitchen,4989.82,United States,2025,5,26,example.com
+TXN10558,CUST-1036,Ethan Taylor,ethan.taylor@example.com,28-12-1969,23-04-2026,Electronics,295.44,Australia,2026,4,57,example.com
+TXN10745,CUST-1049,Ethan Anderson,ethan.anderson@example.com,26-09-2013,04-09-2024,Apparel,739.72,United Kingdom,2024,9,11,example.com
+TXN10054,CUST-1054,Ian Moore,ian.moore@example.com,07-01-2003,15-05-2025,Books,1135.54,United States,2025,5,22,example.com
+TXN10023,CUST-1023,Bob Doe,bob.doe@example.com,25-02-1951,19-11-2025,Home & Kitchen,585.34,United Kingdom,2025,11,74,example.com
+TXN10030,CUST-1030,George Miller,george.miller@example.com,02-08-1994,06-07-2025,Apparel,660.09,India,2025,7,31,example.com
+TXN10894,CUST-1024,Julia Martin,julia.martin@example.com,13-05-1990,24-06-2026,Home & Kitchen,284.38,United States,2026,6,36,example.com
+TXN10429,CUST-1081,Ethan Wilson,ethan.wilson@example.com,22-05-1970,05-11-2025,Home & Kitchen,830.26,United Kingdom,2025,11,55,example.com
+TXN10010,CUST-1010,Kevin Taylor,kevin.taylor@example.com,17-03-1978,01-03-2025,Electronics,1034.02,United States,2025,3,47,example.com
+TXN10949,CUST-1079,Ethan Thomas,ethan.thomas@example.com,06-01-1989,03-03-2025,Electronics,88.46,Canada,2025,3,36,example.com
+TXN10811,CUST-1028,George Taylor,george.taylor@example.com,27-03-1970,19-02-2025,Electronics,408.59,United States,2025,2,55,example.com
+TXN10482,CUST-1047,Alice Johnson,alice.johnson@example.com,12-04-1983,29-04-2026,Sports & Outdoors,870.77,Canada,2026,4,43,example.com
+TXN10445,CUST-1010,John Thomas,john.thomas@example.com,01-09-1965,01-10-2024,Sports & Outdoors,908.37,Australia,2024,10,59,example.com
+TXN10199,CUST-1025,Jane Garcia,jane.garcia@example.com,10-09-1996,05-05-2026,Books,543.17,India,2026,5,30,example.com
+TXN10774,CUST-1078,Ethan Martinez,ethan.martinez@example.com,06-07-1974,27-05-2025,Home & Kitchen,351.78,United Kingdom,2025,5,51,example.com
+TXN10107,CUST-1020,Fiona Taylor,fiona.taylor@example.com,07-11-1978,22-10-2024,Apparel,755.76,United States,2024,10,46,example.com
+TXN10218,CUST-1044,George Davis,george.davis@example.com,11-12-1951,20-09-2025,Sports & Outdoors,214.72,Canada,2025,9,74,example.com
+TXN10174,CUST-1000,Michael Thomas,michael.thomas@example.com,16-03-1993,10-08-2024,Books,1109.55,India,2024,8,31,example.com
+TXN10721,CUST-1025,Jane Martin,jane.martin@example.com,02-05-1965,13-05-2026,Apparel,906.69,United States,2026,5,61,example.com
+TXN10519,CUST-1084,George Hernandez,george.hernandez@example.com,06-02-1974,02-03-2026,Apparel,766.09,Australia,2026,3,52,example.com
+TXN10453,CUST-1018,Ian Taylor,ian.taylor@example.com,21-11-1966,21-11-2025,Electronics,745.32,United Kingdom,2025,11,59,example.com
+TXN10931,CUST-1061,Sarah Martinez,sarah.martinez@example.com,13-03-1975,22-12-2025,Electronics,1108.47,Australia,2025,12,50,example.com
+TXN10039,CUST-1039,Fiona Smith,fiona.smith@example.com,11-07-1974,07-10-2025,Electronics,424.62,India,2025,10,51,example.com
+TXN10551,CUST-1029,Fiona Smith,fiona.smith@example.com,10-01-1998,29-01-2025,Electronics,650.22,United States,2025,1,27,example.com
+TXN10916,CUST-1046,Kevin Anderson,kevin.anderson@example.com,13-04-2001,11-06-2026,Electronics,142.05,United States,2026,6,25,example.com
+TXN10351,CUST-1003,Kevin Doe,kevin.doe@example.com,11-10-1973,31-10-2024,Home & Kitchen,1124.34,United States,2024,10,51,example.com
+TXN10066,CUST-1066,George Martin,george.martin@example.com,27-07-2009,20-11-2024,Apparel,1022.8,United States,2024,11,15,example.com
+TXN10277,CUST-1016,Diana Rodriguez,diana.rodriguez@example.com,06-09-1972,15-08-2025,Sports & Outdoors,1150.36,United Kingdom,2025,8,53,example.com
+TXN10067,CUST-1067,George Moore,george.moore@example.com,19-08-1981,02-11-2024,Books,39.3,United Kingdom,2024,11,43,example.com
+TXN10908,CUST-1038,Alice Thomas,alice.thomas@example.com,28-03-1976,21-12-2025,Apparel,982.39,Germany,2025,12,49,example.com
+TXN10734,CUST-1038,John Brown,john.brown@example.com,16-02-1956,24-08-2024,Electronics,462.25,United Kingdom,2024,8,68,example.com
+TXN10842,CUST-1059,Ethan Rodriguez,ethan.rodriguez@example.com,26-02-2006,19-01-2025,Sports & Outdoors,485.15,United States,2025,1,19,example.com
+TXN10296,CUST-1035,John Johnson,john.johnson@example.com,22-11-2008,08-04-2024,Apparel,955.84,Canada,2024,4,16,example.com
+TXN10618,CUST-1009,Michael Anderson,michael.anderson@example.com,06-08-1962,07-09-2025,Books,719.92,Australia,2025,9,63,example.com
+TXN10598,CUST-1076,Diana Garcia,diana.garcia@example.com,22-06-1992,16-03-2025,Books,776.55,Germany,2025,3,33,example.com
+TXN10817,CUST-1034,Diana Johnson,diana.johnson@example.com,23-06-1984,21-05-2025,Apparel,186.18,India,2025,5,41,example.com
+TXN10806,CUST-1023,John Hernandez,john.hernandez@example.com,03-09-1990,18-10-2025,Books,144.74,Australia,2025,10,35,example.com
+TXN10423,CUST-1075,Laura Martin,laura.martin@example.com,23-03-2015,04-12-2024,Home & Kitchen,128.75,Australia,2024,12,9,example.com
+TXN10758,CUST-1062,Fiona Brown,fiona.brown@example.com,27-06-1990,28-11-2024,Books,894.03,Canada,2024,11,34,example.com
+TXN10312,CUST-1051,Kevin Martinez,kevin.martinez@example.com,14-07-2014,31-07-2024,Books,770.44,India,2024,7,10,example.com
+TXN10184,CUST-1010,Ethan Miller,ethan.miller@example.com,01-08-1980,15-07-2025,Sports & Outdoors,563.55,India,2025,7,45,example.com
+TXN10332,CUST-1071,Diana Martinez,diana.martinez@example.com,27-04-1955,18-08-2025,Home & Kitchen,854.83,United Kingdom,2025,8,70,example.com
+TXN10088,CUST-1001,George Anderson,george.anderson@example.com,28-07-1964,02-08-2025,Electronics,498.83,United Kingdom,2025,8,61,example.com
+TXN10063,CUST-1063,Kevin Thomas,kevin.thomas@example.com,19-02-1975,11-08-2024,Home & Kitchen,838.15,United Kingdom,2024,8,49,example.com
+TXN10832,CUST-1049,Charlie Miller,charlie.miller@example.com,15-12-2012,03-09-2026,Sports & Outdoors,834.89,Germany,2026,9,14,example.com
+TXN10576,CUST-1054,Sarah Anderson,sarah.anderson@example.com,14-04-2008,31-05-2025,Electronics,865.64,Canada,2025,5,17,example.com
+TXN10215,CUST-1041,Fiona Doe,fiona.doe@example.com,27-07-1972,20-01-2026,Electronics,946.61,United States,2026,1,54,example.com
+TXN10604,CUST-1082,Sarah Martinez,sarah.martinez@example.com,25-03-1991,10-04-2026,Sports & Outdoors,250.2,United States,2026,4,35,example.com
+TXN10548,CUST-1026,Fiona Rodriguez,fiona.rodriguez@example.com,03-05-1982,12-12-2024,Books,1101.87,United States,2024,12,42,example.com
+TXN10290,CUST-1029,Michael Wilson,michael.wilson@example.com,15-02-1994,21-03-2026,Home & Kitchen,973.79,Australia,2026,3,32,example.com
+TXN10788,CUST-1005,Michael Anderson,michael.anderson@example.com,28-04-1966,31-05-2026,Apparel,958.79,United States,2026,5,60,example.com
+TXN10889,CUST-1019,Sarah Johnson,sarah.johnson@example.com,13-09-1971,27-09-2024,Sports & Outdoors,600.81,Germany,2024,9,53,example.com
+TXN10967,CUST-1010,Jane Garcia,jane.garcia@example.com,11-07-1999,11-07-2025,Home & Kitchen,132.37,United States,2025,7,26,example.com
+TXN10944,CUST-1074,Julia Martin,julia.martin@example.com,02-12-1997,21-09-2024,Books,884.12,United Kingdom,2024,9,27,example.com
+TXN10827,CUST-1044,Michael Anderson,michael.anderson@example.com,19-12-1980,17-12-2024,Sports & Outdoors,423.65,United Kingdom,2024,12,44,example.com
+TXN10807,CUST-1024,Julia Moore,julia.moore@example.com,06-01-2005,28-09-2025,Home & Kitchen,415.9,United Kingdom,2025,9,20,example.com
+TXN10694,CUST-1085,Fiona Martin,fiona.martin@example.com,25-05-1997,01-06-2026,Home & Kitchen,344.84,United States,2026,6,29,example.com
+TXN10993,CUST-1036,Kevin Rodriguez,kevin.rodriguez@example.com,26-02-1998,15-03-2026,Home & Kitchen,708.65,Germany,2026,3,28,example.com
+TXN10309,CUST-1048,Sarah Thomas,sarah.thomas@example.com,16-04-1964,04-10-2024,Sports & Outdoors,636.3,United States,2024,10,60,example.com
+TXN10086,CUST-1086,Laura Martin,laura.martin@example.com,12-08-1961,27-05-2025,Apparel,805.81,United States,2025,5,64,example.com
+TXN10739,CUST-1043,Sarah Martin,sarah.martin@example.com,02-09-1970,14-06-2025,Apparel,711.3,Canada,2025,6,55,example.com
+TXN10516,CUST-1081,John Martin,john.martin@example.com,01-05-2011,05-05-2025,Apparel,957.14,India,2025,5,14,example.com
+TXN10310,CUST-1049,Julia Anderson,julia.anderson@example.com,28-07-1966,14-12-2024,Books,657.9,United States,2024,12,58,example.com
+TXN10536,CUST-1014,Hannah Anderson,hannah.anderson@example.com,11-11-2002,28-03-2026,Electronics,57.31,United States,2026,3,24,example.com
+TXN10136,CUST-1049,Sarah Moore,sarah.moore@example.com,07-05-2003,02-10-2025,Electronics,518.75,United Kingdom,2025,10,22,example.com
+TXN10873,CUST-1003,Bob Brown,bob.brown@example.com,23-10-1951,11-05-2026,Sports & Outdoors,1085.72,United States,2026,5,75,example.com
+TXN10465,CUST-1030,Fiona Thomas,fiona.thomas@example.com,16-06-1995,13-03-2025,Sports & Outdoors,755.25,United States,2025,3,30,example.com
+TXN10902,CUST-1032,Ian Rodriguez,ian.rodriguez@example.com,22-07-2003,01-06-2025,Sports & Outdoors,394.67,United States,2025,6,22,example.com
+TXN10261,CUST-1000,Bob Miller,bob.miller@example.com,14-03-1961,16-04-2025,Sports & Outdoors,128.44,United States,2025,4,64,example.com
+TXN10486,CUST-1051,John Johnson,john.johnson@example.com,10-09-1961,24-12-2024,Sports & Outdoors,420.23,United Kingdom,2024,12,63,example.com
+TXN10168,CUST-1081,Diana Johnson,diana.johnson@example.com,17-02-1996,01-08-2025,Sports & Outdoors,471.59,Germany,2025,8,29,example.com
+TXN10830,CUST-1047,Sarah Garcia,sarah.garcia@example.com,02-12-2007,25-08-2024,Sports & Outdoors,707.95,India,2024,8,17,example.com
+TXN10447,CUST-1012,Kevin Thomas,kevin.thomas@example.com,06-08-1953,19-01-2025,Home & Kitchen,897.37,India,2025,1,72,example.com
+TXN10139,CUST-1052,Kevin Rodriguez,kevin.rodriguez@example.com,27-09-2014,03-09-2024,Apparel,479.5,United States,2024,9,10,example.com
+TXN10740,CUST-1044,Julia Martinez,julia.martinez@example.com,01-01-1991,22-11-2024,Electronics,1005.14,United Kingdom,2024,11,33,example.com
+TXN10664,CUST-1055,Diana Moore,diana.moore@example.com,02-10-1981,03-05-2026,Electronics,934.31,United States,2026,5,45,example.com
+TXN10855,CUST-1072,Ian Smith,ian.smith@example.com,01-11-1967,03-11-2024,Books,648.8,United States,2024,11,57,example.com
+TXN10531,CUST-1009,Julia Moore,julia.moore@example.com,23-01-1974,28-06-2025,Apparel,304.58,United States,2025,6,51,example.com
+TXN10055,CUST-1055,Kevin Martin,kevin.martin@example.com,10-06-1950,15-06-2025,Books,898.28,India,2025,6,75,example.com
+TXN10120,CUST-1033,Charlie Wilson,charlie.wilson@example.com,22-02-1972,23-06-2026,Home & Kitchen,540.57,United Kingdom,2026,6,54,example.com
+TXN10528,CUST-1006,George Brown,george.brown@example.com,01-04-2000,06-06-2026,Sports & Outdoors,827.65,United States,2026,6,26,example.com
+TXN10025,CUST-1025,Sarah Miller,sarah.miller@example.com,07-05-1974,21-05-2026,Sports & Outdoors,3991.9,United States,2026,5,52,example.com
+TXN10072,CUST-1072,Hannah Wilson,hannah.wilson@example.com,24-02-1979,01-03-2026,Apparel,892.74,United States,2026,3,47,example.com
+TXN10044,CUST-1044,Charlie Garcia,charlie.garcia@example.com,13-11-2003,25-08-2024,Home & Kitchen,490.26,United States,2024,8,21,example.com
+TXN10249,CUST-1075,John Hernandez,john.hernandez@example.com,17-01-1951,11-10-2025,Sports & Outdoors,25.49,Canada,2025,10,74,example.com
+TXN10394,CUST-1046,Julia Smith,julia.smith@example.com,07-09-1991,01-07-2026,Electronics,275.39,United Kingdom,2026,7,35,example.com
+TXN10914,CUST-1044,Ethan Martin,ethan.martin@example.com,04-09-2002,07-07-2025,Electronics,607.75,United Kingdom,2025,7,23,example.com
+TXN10746,CUST-1050,Laura Garcia,laura.garcia@example.com,28-11-2013,03-05-2026,Sports & Outdoors,348.39,United States,2026,5,13,example.com
+TXN10198,CUST-1024,Hannah Smith,hannah.smith@example.com,05-07-1963,22-10-2025,Apparel,442.3,Canada,2025,10,62,example.com
+TXN10816,CUST-1033,Bob Garcia,bob.garcia@example.com,25-07-2006,13-07-2026,Home & Kitchen,412.88,India,2026,7,20,example.com
+TXN10355,CUST-1007,Fiona Davis,fiona.davis@example.com,26-02-2007,15-06-2026,Apparel,385.87,United States,2026,6,19,example.com
+TXN10323,CUST-1062,Ian Johnson,ian.johnson@example.com,12-01-2008,26-12-2025,Apparel,888.79,United Kingdom,2025,12,17,example.com
+TXN10876,CUST-1006,Charlie Miller,charlie.miller@example.com,20-05-2010,02-08-2025,Apparel,1164.47,India,2025,8,15,example.com
+TXN10743,CUST-1047,John Anderson,john.anderson@example.com,22-08-1954,13-05-2025,Sports & Outdoors,323.61,Germany,2025,5,71,example.com
+TXN10235,CUST-1061,Jane Davis,jane.davis@example.com,16-09-2004,01-06-2026,Apparel,944.04,United Kingdom,2026,6,22,example.com
+TXN10578,CUST-1056,Kevin Doe,kevin.doe@example.com,15-05-1974,07-06-2025,Apparel,556.31,Canada,2025,6,51,example.com
+TXN10947,CUST-1077,Kevin Thomas,kevin.thomas@example.com,07-09-1960,12-05-2025,Home & Kitchen,307.18,United Kingdom,2025,5,65,example.com
+TXN10941,CUST-1071,Ian Miller,ian.miller@example.com,05-04-2010,06-01-2026,Electronics,1034.68,United Kingdom,2026,1,16,example.com
+TXN10905,CUST-1035,Alice Davis,alice.davis@example.com,18-11-1963,19-01-2026,Electronics,37.07,United Kingdom,2026,1,63,example.com
+TXN10299,CUST-1038,Michael Moore,michael.moore@example.com,07-07-1950,13-08-2024,Home & Kitchen,194.98,United Kingdom,2024,8,74,example.com
+TXN10060,CUST-1060,Jane Taylor,jane.taylor@example.com,11-03-1978,20-09-2024,Electronics,1424.67,United Kingdom,2024,9,46,example.com
+TXN10327,CUST-1066,George Johnson,george.johnson@example.com,28-04-1955,02-02-2025,Books,1075.22,Germany,2025,2,70,example.com
+TXN10527,CUST-1005,Ethan Taylor,ethan.taylor@example.com,07-11-1956,26-03-2026,Home & Kitchen,392.79,United States,2026,3,70,example.com
+TXN10599,CUST-1077,Charlie Moore,charlie.moore@example.com,26-08-1992,22-05-2025,Electronics,680.11,United Kingdom,2025,5,33,example.com
+TXN10541,CUST-1019,Kevin Garcia,kevin.garcia@example.com,22-09-1974,07-11-2025,Sports & Outdoors,672.32,India,2025,11,51,example.com
+TXN10649,CUST-1040,Ethan Thomas,ethan.thomas@example.com,16-11-1972,30-03-2026,Home & Kitchen,265.97,United States,2026,3,54,example.com
+TXN10917,CUST-1047,Ian Moore,ian.moore@example.com,03-08-2012,26-04-2026,Sports & Outdoors,857.73,Germany,2026,4,14,example.com
+TXN10596,CUST-1074,Ethan Smith,ethan.smith@example.com,10-12-1975,01-11-2025,Electronics,363.84,India,2025,11,50,example.com
+TXN10542,CUST-1020,Laura Brown,laura.brown@example.com,15-11-1995,30-07-2024,Books,204.34,United States,2024,7,29,example.com
+TXN10962,CUST-1005,Bob Martin,bob.martin@example.com,07-04-1980,26-01-2026,Electronics,524.7,United States,2026,1,46,example.com
+TXN10305,CUST-1044,Michael Taylor,michael.taylor@example.com,24-11-1977,14-02-2026,Books,825.45,United Kingdom,2026,2,49,example.com
+TXN10318,CUST-1057,Alice Martin,alice.martin@example.com,12-09-2008,24-05-2026,Books,204.42,United States,2026,5,18,example.com
+TXN10481,CUST-1046,Jane Davis,jane.davis@example.com,01-11-1999,17-04-2026,Home & Kitchen,1111.4,Canada,2026,4,27,example.com
+TXN10493,CUST-1058,Fiona Rodriguez,fiona.rodriguez@example.com,08-04-1983,24-12-2025,Home & Kitchen,191.41,United States,2025,12,42,example.com
+TXN10265,CUST-1004,Sarah Garcia,sarah.garcia@example.com,05-02-2008,11-09-2025,Electronics,402,Australia,2025,9,17,example.com
+TXN10468,CUST-1033,Ethan Davis,ethan.davis@example.com,08-01-2002,05-06-2026,Home & Kitchen,166,India,2026,6,24,example.com
+TXN10737,CUST-1041,Kevin Moore,kevin.moore@example.com,15-07-1990,05-04-2025,Electronics,216.36,United Kingdom,2025,4,35,example.com
+TXN10525,CUST-1003,Ethan Moore,ethan.moore@example.com,22-09-1962,18-12-2025,Books,1023.76,United Kingdom,2025,12,63,example.com
+TXN10256,CUST-1082,Fiona Thomas,fiona.thomas@example.com,25-07-1992,26-02-2026,Electronics,69.17,Canada,2026,2,34,example.com
+TXN10260,CUST-1086,Kevin Anderson,kevin.anderson@example.com,02-03-1996,14-07-2026,Apparel,435.1,United Kingdom,2026,7,30,example.com
+TXN10544,CUST-1022,Julia Hernandez,julia.hernandez@example.com,11-12-2005,11-03-2024,Home & Kitchen,453.2,India,2024,3,19,example.com
+TXN10405,CUST-1057,Michael Martinez,michael.martinez@example.com,02-08-1983,08-04-2026,Home & Kitchen,1279.11,United Kingdom,2026,4,43,example.com
+TXN10428,CUST-1080,Hannah Hernandez,hannah.hernandez@example.com,04-09-1951,24-06-2026,Books,68.41,United States,2026,6,75,example.com
+TXN10628,CUST-1019,Laura Moore,laura.moore@example.com,08-06-1999,10-01-2026,Books,13.88,Germany,2026,1,27,example.com
+TXN10501,CUST-1066,Fiona Hernandez,fiona.hernandez@example.com,05-04-1998,16-02-2026,Books,216.05,Germany,2026,2,28,example.com
+TXN10432,CUST-1084,Jane Smith,jane.smith@example.com,20-04-1982,22-04-2025,Home & Kitchen,907.35,India,2025,4,43,example.com
+TXN10732,CUST-1036,Sarah Wilson,sarah.wilson@example.com,13-11-1984,20-07-2025,Books,725.78,Canada,2025,7,41,example.com
+TXN10137,CUST-1050,Sarah Martinez,sarah.martinez@example.com,13-04-1955,13-11-2024,Electronics,249.29,United Kingdom,2024,11,69,example.com
+TXN10357,CUST-1009,Sarah Smith,sarah.smith@example.com,06-11-2005,05-11-2024,Books,69,United Kingdom,2024,11,19,example.com
+TXN10930,CUST-1060,Bob Martinez,bob.martinez@example.com,14-12-1980,12-11-2025,Sports & Outdoors,94.58,United Kingdom,2025,11,45,example.com
+TXN10221,CUST-1047,John Wilson,john.wilson@example.com,08-12-1996,17-05-2026,Electronics,371.63,Canada,2026,5,30,example.com
+TXN10754,CUST-1058,Michael Martin,michael.martin@example.com,21-07-2005,12-06-2026,Home & Kitchen,330.89,United States,2026,6,21,example.com
+TXN10594,CUST-1072,Sarah Martin,sarah.martin@example.com,20-03-2013,23-11-2025,Apparel,6.89,United States,2025,11,12,example.com
+TXN10557,CUST-1035,John Martinez,john.martinez@example.com,20-06-1971,23-04-2025,Sports & Outdoors,531.35,United Kingdom,2025,4,54,example.com
+TXN10363,CUST-1015,Jane Miller,jane.miller@example.com,22-02-1962,01-08-2025,Sports & Outdoors,1164.99,Australia,2025,8,63,example.com
+TXN10523,CUST-1001,Ian Johnson,ian.johnson@example.com,09-01-1968,13-06-2025,Electronics,222.02,United Kingdom,2025,6,57,example.com
+TXN10208,CUST-1034,Ian Taylor,ian.taylor@example.com,16-10-1983,01-04-2026,Home & Kitchen,671.91,United Kingdom,2026,4,43,example.com
+TXN10857,CUST-1074,Bob Taylor,bob.taylor@example.com,12-10-1998,18-06-2025,Home & Kitchen,154.09,United Kingdom,2025,6,27,example.com
+TXN10334,CUST-1073,Fiona Brown,fiona.brown@example.com,26-02-2009,26-02-2026,Electronics,78.69,United Kingdom,2026,2,17,example.com
+TXN10078,CUST-1078,Fiona Thomas,fiona.thomas@example.com,10-08-2007,24-11-2024,Books,684.51,United States,2024,11,17,example.com
+TXN10029,CUST-1029,Michael Anderson,michael.anderson@example.com,15-01-1959,21-10-2024,Sports & Outdoors,92.55,United Kingdom,2024,10,65,example.com
+TXN10507,CUST-1072,Kevin Johnson,kevin.johnson@example.com,11-03-1960,28-11-2025,Apparel,785.35,United Kingdom,2025,11,65,example.com
+TXN10652,CUST-1043,John Martin,john.martin@example.com,13-07-2011,09-05-2026,Sports & Outdoors,8.95,Germany,2026,5,15,example.com
+TXN10948,CUST-1078,Kevin Martinez,kevin.martinez@example.com,28-12-2002,19-04-2026,Electronics,978,United Kingdom,2026,4,24,example.com
+TXN10289,CUST-1028,Ethan Hernandez,ethan.hernandez@example.com,27-12-1963,18-09-2024,Home & Kitchen,1050.4,United States,2024,9,61,example.com
+TXN10165,CUST-1078,Alice Smith,alice.smith@example.com,27-04-1982,16-02-2026,Sports & Outdoors,171.22,United Kingdom,2026,2,44,example.com
+TXN10762,CUST-1066,Jane Doe,jane.doe@example.com,18-05-1980,21-06-2025,Apparel,1084.27,United States,2025,6,45,example.com
+TXN10497,CUST-1062,Michael Brown,michael.brown@example.com,23-06-2008,11-07-2026,Electronics,458.42,United States,2026,7,18,example.com
+TXN10462,CUST-1027,Fiona Martin,fiona.martin@example.com,09-02-1979,06-07-2025,Home & Kitchen,803.96,India,2025,7,46,example.com
+TXN10065,CUST-1065,John Hernandez,john.hernandez@example.com,14-02-2012,14-07-2025,Books,187.82,United States,2025,7,13,example.com
+TXN10141,CUST-1054,Hannah Brown,hannah.brown@example.com,11-01-2001,25-01-2026,Sports & Outdoors,999.27,United Kingdom,2026,1,25,example.com
+TXN10275,CUST-1014,Bob Miller,bob.miller@example.com,11-05-1994,09-04-2025,Home & Kitchen,2393.2,United States,2025,4,31,example.com
+TXN10833,CUST-1050,Sarah Doe,sarah.doe@example.com,12-09-1970,20-03-2026,Sports & Outdoors,136.85,United Kingdom,2026,3,56,example.com
+TXN10582,CUST-1060,Julia Johnson,julia.johnson@example.com,26-12-1999,11-02-2025,Sports & Outdoors,457.52,Canada,2025,2,26,example.com
+TXN10464,CUST-1029,George Wilson,george.wilson@example.com,21-07-1972,27-06-2025,Apparel,622.41,Canada,2025,6,53,example.com
+TXN10668,CUST-1059,Fiona Garcia,fiona.garcia@example.com,04-09-1965,24-10-2024,Apparel,559.74,United Kingdom,2024,10,59,example.com
+TXN10319,CUST-1058,George Brown,george.brown@example.com,24-04-1964,13-02-2025,Electronics,1031.13,United States,2025,2,61,example.com
+TXN10716,CUST-1020,Ian Davis,ian.davis@example.com,05-04-1963,19-02-2025,Home & Kitchen,955.15,India,2025,2,62,example.com
+TXN10306,CUST-1045,Alice Brown,alice.brown@example.com,19-02-1967,21-06-2025,Apparel,380.83,United States,2025,6,58,example.com
+TXN10307,CUST-1046,Fiona Wilson,fiona.wilson@example.com,18-04-1960,11-11-2024,Sports & Outdoors,935.87,United States,2024,11,64,example.com
+TXN10826,CUST-1043,Julia Wilson,julia.wilson@example.com,04-06-2014,01-06-2026,Electronics,361.06,United States,2026,6,12,example.com
+TXN10333,CUST-1072,Kevin Doe,kevin.doe@example.com,27-05-1988,22-01-2026,Electronics,1026.25,India,2026,1,38,example.com
+TXN10049,CUST-1049,Bob Hernandez,bob.hernandez@example.com,26-03-1978,06-08-2024,Sports & Outdoors,65.01,United Kingdom,2024,8,46,example.com
+TXN10731,CUST-1035,Alice Taylor,alice.taylor@example.com,07-06-1975,17-11-2024,Books,283.28,Canada,2024,11,49,example.com
+TXN10002,CUST-1002,Laura Rodriguez,laura.rodriguez@example.com,09-10-2007,13-07-2026,Home & Kitchen,411.6,United States,2026,7,19,example.com
+TXN10786,CUST-1003,John Martinez,john.martinez@example.com,12-07-1965,22-11-2024,Electronics,188.76,United States,2024,11,59,example.com
+TXN10352,CUST-1004,Ian Johnson,ian.johnson@example.com,11-06-1980,29-01-2026,Electronics,538.72,United Kingdom,2026,1,46,example.com
+TXN10538,CUST-1016,Sarah Wilson,sarah.wilson@example.com,08-06-1956,06-11-2024,Electronics,1116.6,United Kingdom,2024,11,68,example.com
+TXN10346,CUST-1085,Fiona Rodriguez,fiona.rodriguez@example.com,16-09-1952,19-07-2026,Apparel,968.7,United Kingdom,2026,7,74,example.com
+TXN10483,CUST-1048,Hannah Doe,hannah.doe@example.com,16-11-1972,26-04-2025,Electronics,1021.43,India,2025,4,53,example.com
+TXN10033,CUST-1033,Jane Johnson,jane.johnson@example.com,02-05-2004,16-07-2026,Apparel,766.35,United Kingdom,2026,7,22,example.com
+TXN10031,CUST-1031,Hannah Smith,hannah.smith@example.com,04-11-1988,04-03-2026,Apparel,1068.21,India,2026,3,38,example.com
+TXN10231,CUST-1057,Laura Thomas,laura.thomas@example.com,15-04-1979,30-07-2025,Home & Kitchen,230.23,United States,2025,7,46,example.com
+TXN10752,CUST-1056,Laura Hernandez,laura.hernandez@example.com,21-02-1990,23-12-2025,Books,989.33,United States,2025,12,35,example.com
+TXN10192,CUST-1018,Sarah Rodriguez,sarah.rodriguez@example.com,15-05-2001,05-06-2026,Electronics,530.33,Germany,2026,6,25,example.com
+TXN10513,CUST-1078,Sarah Moore,sarah.moore@example.com,15-09-1984,03-03-2026,Sports & Outdoors,711.04,Germany,2026,3,42,example.com
+TXN10003,CUST-1003,Ethan Anderson,ethan.anderson@example.com,13-02-1963,11-04-2026,Apparel,726.45,United States,2026,4,63,example.com
+TXN10204,CUST-1030,Sarah Wilson,sarah.wilson@example.com,02-12-1979,29-11-2024,Books,631.46,Australia,2024,11,45,example.com
+TXN10433,CUST-1085,Ethan Garcia,ethan.garcia@example.com,06-08-1987,19-08-2024,Electronics,1155.16,India,2024,8,37,example.com
+TXN10808,CUST-1025,Fiona Anderson,fiona.anderson@example.com,10-03-2009,21-07-2024,Books,1000.53,United Kingdom,2024,7,15,example.com
+TXN10986,CUST-1029,Charlie Martin,charlie.martin@example.com,12-09-1990,06-11-2024,Sports & Outdoors,827.08,United States,2024,11,34,example.com
+TXN10109,CUST-1022,Diana Garcia,diana.garcia@example.com,12-09-1966,22-01-2025,Sports & Outdoors,997.41,United Kingdom,2025,1,59,example.com
+TXN10942,CUST-1072,Sarah Thomas,sarah.thomas@example.com,24-07-2003,02-07-2025,Books,372.83,Australia,2025,7,22,example.com
+TXN10077,CUST-1077,Jane Miller,jane.miller@example.com,10-10-1969,23-04-2026,Home & Kitchen,671.9,Canada,2026,4,57,example.com
+TXN10084,CUST-1084,Michael Johnson,michael.johnson@example.com,24-07-1955,23-08-2025,Sports & Outdoors,35.91,United Kingdom,2025,8,70,example.com
+TXN10588,CUST-1066,Julia Doe,julia.doe@example.com,22-01-1968,05-12-2024,Sports & Outdoors,400.68,United States,2024,12,56,example.com
+TXN10082,CUST-1082,Fiona Miller,fiona.miller@example.com,03-03-1984,19-05-2026,Home & Kitchen,716.08,Australia,2026,5,42,example.com
+TXN10254,CUST-1080,Fiona Garcia,fiona.garcia@example.com,02-05-2010,04-05-2026,Apparel,219.33,United Kingdom,2026,5,16,example.com
+TXN10924,CUST-1054,Ian Garcia,ian.garcia@example.com,13-09-1976,07-05-2025,Electronics,260.47,United Kingdom,2025,5,49,example.com
+TXN10408,CUST-1060,Kevin Moore,kevin.moore@example.com,23-07-1984,17-03-2025,Books,1063.92,United States,2025,3,41,example.com
+TXN10653,CUST-1044,Bob Taylor,bob.taylor@example.com,10-11-1992,04-06-2025,Electronics,441.6,United Kingdom,2025,6,33,example.com
+TXN10521,CUST-1086,Diana Brown,diana.brown@example.com,05-05-1986,27-04-2025,Electronics,112.79,United States,2025,4,39,example.com
+TXN10920,CUST-1050,Ethan Doe,ethan.doe@example.com,23-08-1977,06-01-2026,Sports & Outdoors,471.79,United Kingdom,2026,1,49,example.com
+TXN10436,CUST-1001,Hannah Martin,hannah.martin@example.com,26-02-1995,25-07-2024,Apparel,1148.6,India,2024,7,29,example.com
+TXN10005,CUST-1005,Jane Rodriguez,jane.rodriguez@example.com,28-02-1987,23-11-2025,Electronics,337.18,United Kingdom,2025,11,38,example.com
+TXN10404,CUST-1056,Bob Martin,bob.martin@example.com,25-02-1969,11-02-2025,Electronics,1086.21,United Kingdom,2025,2,56,example.com
+TXN10467,CUST-1032,Julia Brown,julia.brown@example.com,26-07-1979,15-08-2025,Electronics,811.9,Germany,2025,8,46,example.com
+TXN10097,CUST-1010,Bob Moore,bob.moore@example.com,05-12-1951,26-05-2025,Home & Kitchen,566.04,United Kingdom,2025,5,74,example.com
+TXN10559,CUST-1037,Charlie Martinez,charlie.martinez@example.com,23-06-1951,28-03-2026,Apparel,568.07,United Kingdom,2026,3,75,example.com
+TXN10359,CUST-1011,Jane Thomas,jane.thomas@example.com,02-03-2012,15-07-2025,Electronics,109.72,Australia,2025,7,13,example.com
+TXN10874,CUST-1004,George Taylor,george.taylor@example.com,24-08-2003,22-10-2024,Books,295.57,United States,2024,10,21,example.com
+TXN10266,CUST-1005,Kevin Anderson,kevin.anderson@example.com,14-06-2006,21-09-2024,Sports & Outdoors,364.02,Australia,2024,9,18,example.com
+TXN10677,CUST-1068,Diana Rodriguez,diana.rodriguez@example.com,28-07-1961,31-01-2025,Books,711.94,Germany,2025,1,64,example.com
+TXN10382,CUST-1034,Kevin Brown,kevin.brown@example.com,22-09-1950,01-07-2025,Sports & Outdoors,361.68,United States,2025,7,75,example.com
+TXN10693,CUST-1084,Ian Martin,ian.martin@example.com,10-08-2006,16-12-2024,Home & Kitchen,210.23,United Kingdom,2024,12,18,example.com
+TXN10411,CUST-1063,Laura Moore,laura.moore@example.com,09-02-1955,17-09-2024,Apparel,846.96,India,2024,9,69,example.com
+TXN10887,CUST-1017,Laura Rodriguez,laura.rodriguez@example.com,19-10-1955,07-01-2026,Sports & Outdoors,948.56,United Kingdom,2026,1,71,example.com
+TXN10118,CUST-1031,John Doe,john.doe@example.com,05-04-1992,18-12-2024,Home & Kitchen,996.63,India,2024,12,32,example.com
+TXN10430,CUST-1082,Ethan Doe,ethan.doe@example.com,08-04-1995,27-10-2024,Sports & Outdoors,892.18,India,2024,10,29,example.com
+TXN10342,CUST-1081,Ian Rodriguez,ian.rodriguez@example.com,02-05-1953,23-03-2025,Sports & Outdoors,921.38,United Kingdom,2025,3,72,example.com
+TXN10009,CUST-1009,Kevin Moore,kevin.moore@example.com,05-05-1968,09-11-2025,Sports & Outdoors,897.68,Canada,2025,11,57,example.com
+TXN10196,CUST-1022,Ethan Davis,ethan.davis@example.com,15-09-2013,24-02-2025,Apparel,32.7,Canada,2025,2,12,example.com
+TXN10985,CUST-1028,Diana Hernandez,diana.hernandez@example.com,10-04-1950,02-06-2026,Sports & Outdoors,792.69,Germany,2026,6,76,example.com
+TXN10081,CUST-1081,Hannah Moore,hannah.moore@example.com,08-11-1959,22-10-2025,Sports & Outdoors,513.04,India,2025,10,66,example.com
+TXN10913,CUST-1043,Bob Thomas,bob.thomas@example.com,28-04-1955,08-02-2026,Apparel,801.66,United States,2026,2,71,example.com
+TXN10478,CUST-1043,Laura Taylor,laura.taylor@example.com,13-11-1985,23-12-2025,Books,941.63,Germany,2025,12,40,example.com
+TXN10696,CUST-1000,Ian Miller,ian.miller@example.com,12-05-2006,01-12-2026,Home & Kitchen,800.34,United Kingdom,2026,12,20,example.com
+TXN10239,CUST-1065,Jane Wilson,jane.wilson@example.com,20-11-1998,09-11-2024,Electronics,229.86,Australia,2024,11,26,example.com
+TXN10292,CUST-1031,George Davis,george.davis@example.com,10-12-1991,26-09-2025,Sports & Outdoors,1143.11,India,2025,9,34,example.com
+TXN10211,CUST-1037,Julia Moore,julia.moore@example.com,16-12-1982,12-12-2025,Home & Kitchen,1119.96,United Kingdom,2025,12,43,example.com
+TXN10722,CUST-1026,Ethan Garcia,ethan.garcia@example.com,12-11-1973,20-06-2026,Electronics,1015.8,United Kingdom,2026,6,53,example.com
+TXN10361,CUST-1013,Hannah Thomas,hannah.thomas@example.com,22-08-2010,21-10-2025,Electronics,225.93,Canada,2025,10,15,example.com
+TXN10451,CUST-1016,Diana Rodriguez,diana.rodriguez@example.com,04-04-1982,15-01-2026,Sports & Outdoors,1022.41,India,2026,1,44,example.com
+TXN10227,CUST-1053,Hannah Smith,hannah.smith@example.com,27-05-2000,16-07-2026,Home & Kitchen,59.12,United Kingdom,2026,7,26,example.com
+TXN10907,CUST-1037,John Davis,john.davis@example.com,13-07-1991,09-02-2026,Electronics,646.06,Germany,2026,2,35,example.com
+TXN10362,CUST-1014,Julia Davis,julia.davis@example.com,09-01-2007,25-04-2025,Books,275.36,United Kingdom,2025,4,18,example.com
+TXN10802,CUST-1019,Fiona Hernandez,fiona.hernandez@example.com,10-02-1974,01-04-2025,Home & Kitchen,509.15,United States,2025,4,51,example.com
+TXN10657,CUST-1048,Hannah Martin,hannah.martin@example.com,02-01-2007,06-08-2025,Electronics,946.4,United States,2025,8,18,example.com
+TXN10707,CUST-1011,Charlie Garcia,charlie.garcia@example.com,10-07-1973,29-12-2024,Books,988.25,United Kingdom,2024,12,51,example.com
+TXN10644,CUST-1035,Bob Moore,bob.moore@example.com,24-04-1994,02-10-2025,Apparel,45.68,Australia,2025,10,31,example.com
+TXN10581,CUST-1059,Michael Johnson,michael.johnson@example.com,23-06-1982,23-09-2024,Home & Kitchen,113.97,Germany,2024,9,42,example.com
+TXN10777,CUST-1081,Bob Doe,bob.doe@example.com,08-06-1956,24-03-2025,Apparel,11.41,India,2025,3,69,example.com
+TXN10370,CUST-1022,Kevin Martin,kevin.martin@example.com,01-06-2010,10-10-2025,Books,743.8,Canada,2025,10,15,example.com
+TXN10007,CUST-1007,Diana Moore,diana.moore@example.com,21-05-1998,14-08-2024,Sports & Outdoors,823.11,United States,2024,8,26,example.com
+TXN10155,CUST-1068,Alice Hernandez,alice.hernandez@example.com,01-06-2015,13-07-2025,Apparel,1141.65,United Kingdom,2025,7,10,example.com
+TXN10543,CUST-1021,Kevin Anderson,kevin.anderson@example.com,20-09-1970,22-04-2025,Apparel,662.35,United Kingdom,2025,4,55,example.com
+TXN10442,CUST-1007,John Johnson,john.johnson@example.com,21-11-1976,13-12-2025,Books,250.67,Canada,2025,12,49,example.com
+TXN10822,CUST-1039,George Miller,george.miller@example.com,21-08-2001,21-12-2025,Sports & Outdoors,838.48,Canada,2025,12,24,example.com
+TXN10398,CUST-1050,Ethan Smith,ethan.smith@example.com,04-03-2014,09-07-2025,Electronics,1052.47,United Kingdom,2025,7,11,example.com
+TXN10783,CUST-1000,Jane Moore,jane.moore@example.com,18-12-1995,10-03-2025,Books,139.43,United States,2025,3,30,example.com
+TXN10568,CUST-1046,Fiona Hernandez,fiona.hernandez@example.com,05-10-1980,05-09-2025,Apparel,541.76,United States,2025,9,45,example.com
+TXN10591,CUST-1069,Alice Martinez,alice.martinez@example.com,04-03-2010,07-08-2024,Apparel,634.83,India,2024,8,14,example.com
+TXN10580,CUST-1058,Diana Miller,diana.miller@example.com,07-11-2000,14-04-2025,Electronics,547.15,United Kingdom,2025,4,25,example.com
+TXN10940,CUST-1070,George Thomas,george.thomas@example.com,15-05-2009,02-10-2025,Books,729.2,United States,2025,10,16,example.com
+TXN10695,CUST-1086,Diana Martinez,diana.martinez@example.com,27-03-1973,24-07-2024,Home & Kitchen,289.3,United States,2024,7,51,example.com
+TXN10868,CUST-1085,Fiona Johnson,fiona.johnson@example.com,21-02-2006,18-04-2025,Sports & Outdoors,107.21,United States,2025,4,19,example.com
+TXN10532,CUST-1010,Sarah Moore,sarah.moore@example.com,23-09-1987,05-03-2025,Home & Kitchen,654.63,United Kingdom,2025,3,38,example.com
+TXN10585,CUST-1063,Ethan Smith,ethan.smith@example.com,15-01-1982,25-02-2025,Books,1212.14,Australia,2025,2,43,example.com
+TXN10712,CUST-1016,Ian Moore,ian.moore@example.com,06-06-1967,26-05-2026,Apparel,506.32,United Kingdom,2026,5,59,example.com
+TXN10780,CUST-1084,Ian Doe,ian.doe@example.com,28-08-1966,05-10-2025,Apparel,427.97,United Kingdom,2025,10,59,example.com
+TXN10228,CUST-1054,Alice Doe,alice.doe@example.com,02-08-1958,29-09-2025,Books,923.92,Canada,2025,9,67,example.com
+TXN10590,CUST-1068,Julia Doe,julia.doe@example.com,05-11-1961,07-07-2025,Books,911.34,India,2025,7,64,example.com
+TXN10823,CUST-1040,Ethan Martinez,ethan.martinez@example.com,18-01-1960,11-08-2025,Books,864.06,United States,2025,8,65,example.com
+TXN10212,CUST-1038,Charlie Brown,charlie.brown@example.com,02-04-1980,02-09-2024,Sports & Outdoors,767.34,United States,2024,9,44,example.com
+TXN10079,CUST-1079,Bob Garcia,bob.garcia@example.com,22-05-1977,27-04-2026,Home & Kitchen,212.71,United States,2026,4,49,example.com
+TXN10148,CUST-1061,Alice Johnson,alice.johnson@example.com,15-07-2014,02-12-2024,Sports & Outdoors,542.43,Australia,2024,12,10,example.com
+TXN10302,CUST-1041,Fiona Moore,fiona.moore@example.com,23-01-1951,02-08-2025,Electronics,834.37,Germany,2025,8,74,example.com
+TXN10865,CUST-1082,Ian Johnson,ian.johnson@example.com,08-12-1953,12-08-2024,Books,1100.81,United Kingdom,2024,8,71,example.com
+TXN10328,CUST-1067,Alice Brown,alice.brown@example.com,21-03-2014,06-11-2025,Electronics,524.8,United States,2025,11,11,example.com
+TXN10929,CUST-1059,Michael Thomas,michael.thomas@example.com,24-11-2015,23-11-2025,Sports & Outdoors,282.96,Australia,2025,11,10,example.com
+TXN10344,CUST-1083,Kevin Taylor,kevin.taylor@example.com,08-03-1972,20-11-2024,Apparel,1097.21,United States,2024,11,52,example.com
+TXN10545,CUST-1023,George Taylor,george.taylor@example.com,13-08-2007,19-07-2026,Electronics,716.94,India,2026,7,19,example.com
+TXN10506,CUST-1071,Alice Thomas,alice.thomas@example.com,21-08-1986,21-02-2026,Home & Kitchen,509.07,Australia,2026,2,40,example.com
+TXN10133,CUST-1046,Charlie Thomas,charlie.thomas@example.com,24-03-1958,09-10-2024,Electronics,896.6,United Kingdom,2024,10,66,example.com
+TXN10552,CUST-1030,Ian Rodriguez,ian.rodriguez@example.com,22-01-1969,06-12-2025,Books,692.43,United States,2025,12,56,example.com
+TXN10311,CUST-1050,Sarah Johnson,sarah.johnson@example.com,03-10-1952,05-07-2026,Apparel,52.59,United States,2026,7,74,example.com
+TXN10050,CUST-1050,Bob Moore,bob.moore@example.com,22-08-1967,22-01-2025,Sports & Outdoors,4800.16,Germany,2025,1,58,example.com
+TXN10567,CUST-1045,George Rodriguez,george.rodriguez@example.com,13-06-1969,15-09-2024,Home & Kitchen,877.22,India,2024,9,55,example.com
+TXN10316,CUST-1055,John Davis,john.davis@example.com,17-06-2013,05-02-2025,Apparel,449.38,United Kingdom,2025,2,12,example.com
+TXN10711,CUST-1015,Bob Taylor,bob.taylor@example.com,19-12-2015,02-07-2026,Apparel,700.08,United States,2026,7,11,example.com
+TXN10549,CUST-1027,Ian Martin,ian.martin@example.com,27-08-1972,12-08-2024,Sports & Outdoors,716.3,United Kingdom,2024,8,52,example.com
+TXN10617,CUST-1008,Ian Rodriguez,ian.rodriguez@example.com,22-11-1972,01-05-2026,Sports & Outdoors,141.62,Australia,2026,5,54,example.com
+TXN10534,CUST-1012,Julia Moore,julia.moore@example.com,17-11-1950,26-06-2025,Home & Kitchen,745.58,United Kingdom,2025,6,75,example.com
+TXN10479,CUST-1044,Diana Taylor,diana.taylor@example.com,10-05-2011,05-12-2024,Apparel,884.26,United States,2024,12,13,example.com
+TXN10778,CUST-1082,Kevin Martinez,kevin.martinez@example.com,12-11-2000,06-03-2026,Sports & Outdoors,698.68,United Kingdom,2026,3,26,example.com
+TXN10172,CUST-1085,Jane Anderson,jane.anderson@example.com,13-09-1989,09-01-2025,Books,48.76,United Kingdom,2025,1,36,example.com
+TXN10125,CUST-1038,Ian Thomas,ian.thomas@example.com,17-08-1987,07-11-2024,Books,4172.38,United States,2024,11,37,example.com
+TXN10424,CUST-1076,Ian Thomas,ian.thomas@example.com,23-10-2003,11-07-2025,Apparel,1156.49,United Kingdom,2025,7,22,example.com
+TXN10422,CUST-1074,Bob Moore,bob.moore@example.com,19-11-2008,18-02-2025,Home & Kitchen,10.18,United States,2025,2,17,example.com
+TXN10554,CUST-1032,Kevin Wilson,kevin.wilson@example.com,17-07-1960,01-05-2025,Home & Kitchen,579.7,United Kingdom,2025,5,65,example.com
+TXN10909,CUST-1039,Diana Martinez,diana.martinez@example.com,23-09-1975,17-08-2024,Books,246.03,United States,2024,8,49,example.com
+TXN10945,CUST-1075,Sarah Doe,sarah.doe@example.com,23-11-1996,26-08-2024,Electronics,395.69,Germany,2024,8,28,example.com
+TXN10181,CUST-1007,Bob Wilson,bob.wilson@example.com,15-12-1983,12-12-2025,Sports & Outdoors,834.31,Germany,2025,12,42,example.com
+TXN10274,CUST-1013,Michael Miller,michael.miller@example.com,16-01-1994,03-04-2026,Apparel,1105.05,United States,2026,4,32,example.com
+TXN10901,CUST-1031,Michael Smith,michael.smith@example.com,19-03-1997,10-03-2026,Apparel,602.26,United Kingdom,2026,3,29,example.com
+TXN10069,CUST-1069,John Garcia,john.garcia@example.com,24-04-1960,29-05-2025,Books,911.01,Germany,2025,5,65,example.com
+TXN10291,CUST-1030,Julia Hernandez,julia.hernandez@example.com,05-10-1971,20-12-2025,Home & Kitchen,686.24,India,2025,12,54,example.com
+TXN10131,CUST-1044,Julia Taylor,julia.taylor@example.com,19-05-1964,30-11-2025,Books,1169.58,Australia,2025,11,61,example.com
+TXN10583,CUST-1061,Jane Davis,jane.davis@example.com,28-10-1992,12-09-2024,Home & Kitchen,1043.24,United States,2024,9,32,example.com
+TXN10326,CUST-1065,Hannah Brown,hannah.brown@example.com,08-09-1976,16-05-2025,Books,1167.21,United States,2025,5,49,example.com
+TXN10144,CUST-1057,Julia Miller,julia.miller@example.com,05-02-1980,30-10-2025,Home & Kitchen,724.87,United States,2025,10,45,example.com
+TXN10425,CUST-1077,Michael Miller,michael.miller@example.com,20-07-1967,02-08-2024,Sports & Outdoors,4372.3,Unknown,2024,8,57,example.com
+TXN10584,CUST-1062,Jane Hernandez,jane.hernandez@example.com,24-05-1989,19-04-2025,Apparel,145.48,United States,2025,4,36,example.com
+TXN10135,CUST-1048,Alice Doe,alice.doe@example.com,25-03-1969,25-10-2024,Electronics,411.79,Canada,2024,10,55,example.com
+TXN10666,CUST-1057,Sarah Miller,sarah.miller@example.com,21-03-1976,15-10-2025,Sports & Outdoors,497.38,United States,2025,10,49,example.com
+TXN10164,CUST-1077,Charlie Miller,charlie.miller@example.com,27-05-1954,23-03-2025,Home & Kitchen,541.08,United States,2025,3,71,example.com
+TXN10028,CUST-1028,Ian Wilson,ian.wilson@example.com,23-11-1976,01-09-2025,Home & Kitchen,477.96,United Kingdom,2025,9,49,example.com
+TXN10936,CUST-1066,Alice Hernandez,alice.hernandez@example.com,06-05-2009,29-12-2025,Home & Kitchen,215.84,United Kingdom,2025,12,16,example.com
+TXN10193,CUST-1019,Michael Garcia,michael.garcia@example.com,05-10-1993,02-09-2025,Apparel,1170.57,United States,2025,9,32,example.com
+TXN10997,CUST-1040,Laura Moore,laura.moore@example.com,12-08-1973,27-03-2025,Sports & Outdoors,334.61,Canada,2025,3,52,example.com
+TXN10750,CUST-1054,Diana Smith,diana.smith@example.com,16-10-1973,13-12-2025,Books,1406.06,India,2025,12,52,example.com
+TXN10169,CUST-1082,Jane Thomas,jane.thomas@example.com,24-05-1997,03-07-2026,Apparel,417.04,United States,2026,7,29,example.com
+TXN10173,CUST-1086,Hannah Taylor,hannah.taylor@example.com,11-11-1956,13-10-2025,Electronics,527.16,Canada,2025,10,69,example.com
+TXN10006,CUST-1006,Diana Taylor,diana.taylor@example.com,22-04-1995,19-10-2025,Electronics,643.3,United Kingdom,2025,10,30,example.com
+TXN10850,CUST-1067,Ethan Miller,ethan.miller@example.com,09-06-1997,10-11-2025,Sports & Outdoors,4845.41,Unknown,2025,11,28,example.com
+TXN10635,CUST-1026,Alice Wilson,alice.wilson@example.com,20-03-1982,05-10-2025,Apparel,21.97,United States,2025,10,43,example.com
+TXN10073,CUST-1073,Ethan Garcia,ethan.garcia@example.com,24-05-2011,23-11-2024,Sports & Outdoors,1176.71,United Kingdom,2024,11,13,example.com
+TXN10687,CUST-1078,Ethan Rodriguez,ethan.rodriguez@example.com,09-06-1991,19-02-2025,Books,70.08,United Kingdom,2025,2,34,example.com
+TXN10983,CUST-1026,Bob Davis,bob.davis@example.com,18-01-1973,18-04-2025,Apparel,51.78,Australia,2025,4,52,example.com
+TXN10238,CUST-1064,Fiona Wilson,fiona.wilson@example.com,21-06-1976,30-04-2026,Books,115.49,United Kingdom,2026,4,50,example.com
+TXN10145,CUST-1058,Diana Martin,diana.martin@example.com,25-10-2009,03-12-2024,Books,1109.36,Australia,2024,12,15,example.com
+TXN10798,CUST-1015,Ian Moore,ian.moore@example.com,26-10-2007,21-10-2025,Apparel,257.23,United States,2025,10,18,example.com
+TXN10234,CUST-1060,Fiona Anderson,fiona.anderson@example.com,10-04-1991,23-02-2026,Sports & Outdoors,499.2,United Kingdom,2026,2,35,example.com
+TXN10477,CUST-1042,Ethan Anderson,ethan.anderson@example.com,04-06-2002,11-02-2026,Books,704.52,United Kingdom,2026,2,24,example.com
+TXN10132,CUST-1045,John Wilson,john.wilson@example.com,09-03-1953,30-07-2024,Apparel,424.47,United States,2024,7,71,example.com
+TXN10998,CUST-1041,Fiona Martinez,fiona.martinez@example.com,14-05-1961,02-09-2025,Electronics,96.65,United Kingdom,2025,9,64,example.com
+TXN10843,CUST-1060,Sarah Smith,sarah.smith@example.com,06-07-1993,21-05-2025,Electronics,461.5,United States,2025,5,32,example.com
+TXN10185,CUST-1011,Charlie Johnson,charlie.johnson@example.com,13-05-1958,16-03-2025,Sports & Outdoors,924.15,Australia,2025,3,67,example.com
+TXN10041,CUST-1041,Laura Taylor,laura.taylor@example.com,20-07-1990,11-02-2025,Electronics,1079.91,United Kingdom,2025,2,35,example.com
+TXN10999,CUST-1042,Alice Davis,alice.davis@example.com,24-02-1957,30-09-2025,Sports & Outdoors,970.97,United States,2025,9,68,example.com
+TXN10108,CUST-1021,Hannah Moore,hannah.moore@example.com,12-10-1954,07-03-2026,Electronics,395.43,Canada,2026,3,72,example.com
+TXN10923,CUST-1053,Fiona Brown,fiona.brown@example.com,06-12-1971,04-06-2026,Books,133.68,United Kingdom,2026,6,55,example.com
+TXN10056,CUST-1056,Fiona Martin,fiona.martin@example.com,14-05-1978,03-09-2025,Electronics,406.67,Canada,2025,9,47,example.com
+TXN10530,CUST-1008,Jane Taylor,jane.taylor@example.com,18-12-1969,01-04-2026,Home & Kitchen,283.05,India,2026,4,57,example.com
+TXN10872,CUST-1002,Laura Brown,laura.brown@example.com,22-11-1993,23-06-2026,Books,397.19,United Kingdom,2026,6,33,example.com
+TXN10603,CUST-1081,Jane Garcia,jane.garcia@example.com,17-08-1961,24-06-2026,Books,189.12,United Kingdom,2026,6,65,example.com
+TXN10866,CUST-1083,Diana Anderson,diana.anderson@example.com,21-02-1989,17-10-2024,Electronics,578.56,United States,2024,10,35,example.com
+TXN10024,CUST-1024,Kevin Doe,kevin.doe@example.com,01-07-1971,15-06-2025,Apparel,345.87,India,2025,6,54,example.com
+TXN10650,CUST-1041,Michael Wilson,michael.wilson@example.com,01-03-1963,08-05-2026,Sports & Outdoors,4108.95,United States,2026,5,63,example.com
+TXN10448,CUST-1013,Hannah Miller,hannah.miller@example.com,26-11-1988,24-09-2024,Apparel,666.46,India,2024,9,36,example.com
+TXN10533,CUST-1011,Michael Wilson,michael.wilson@example.com,17-02-1970,11-02-2026,Books,984.21,India,2026,2,56,example.com
+TXN10622,CUST-1013,Alice Smith,alice.smith@example.com,28-07-2015,11-03-2026,Apparel,446.22,India,2026,3,11,example.com
+TXN10753,CUST-1057,George Rodriguez,george.rodriguez@example.com,04-04-2001,16-02-2026,Home & Kitchen,298.48,United Kingdom,2026,2,25,example.com
+TXN10932,CUST-1062,Michael Anderson,michael.anderson@example.com,11-05-1967,28-09-2024,Electronics,779.42,United Kingdom,2024,9,57,example.com
+TXN10338,CUST-1077,Julia Garcia,julia.garcia@example.com,09-05-1973,19-04-2025,Home & Kitchen,738.86,Australia,2025,4,52,example.com
+TXN10051,CUST-1051,Laura Moore,laura.moore@example.com,28-12-1970,20-03-2025,Books,903.37,United Kingdom,2025,3,55,example.com
+TXN10667,CUST-1058,Jane Davis,jane.davis@example.com,03-10-2013,15-10-2024,Apparel,505.45,India,2024,10,11,example.com
+TXN10518,CUST-1083,Kevin Rodriguez,kevin.rodriguez@example.com,14-02-1983,17-10-2024,Home & Kitchen,345.19,India,2024,10,41,example.com
+TXN10926,CUST-1056,Alice Wilson,alice.wilson@example.com,03-01-1997,08-12-2025,Books,922.22,Germany,2025,12,28,example.com
+TXN10636,CUST-1027,Diana Miller,diana.miller@example.com,26-06-2007,21-01-2026,Apparel,584.48,India,2026,1,19,example.com
+TXN10264,CUST-1003,Diana Hernandez,diana.hernandez@example.com,10-07-1985,03-11-2025,Electronics,305.78,United Kingdom,2025,11,40,example.com
+TXN10539,CUST-1017,Sarah Johnson,sarah.johnson@example.com,02-11-2009,15-07-2025,Sports & Outdoors,987.32,United States,2025,7,16,example.com
+TXN10715,CUST-1019,Bob Taylor,bob.taylor@example.com,05-01-1968,04-02-2025,Apparel,935.68,Canada,2025,2,57,example.com
+TXN10959,CUST-1002,John Anderson,john.anderson@example.com,12-11-1952,03-06-2026,Apparel,284.1,Germany,2026,6,74,example.com
+TXN10952,CUST-1082,Ethan Wilson,ethan.wilson@example.com,21-08-2002,18-10-2024,Electronics,100.37,United States,2024,10,22,example.com
+TXN10879,CUST-1009,Ian Martinez,ian.martinez@example.com,06-06-2003,03-04-2026,Books,597.64,United States,2026,4,23,example.com
+TXN10449,CUST-1014,Charlie Brown,charlie.brown@example.com,19-01-1955,16-11-2024,Books,659.29,United States,2024,11,69,example.com
+TXN10018,CUST-1018,Fiona Smith,fiona.smith@example.com,21-12-1959,20-05-2026,Home & Kitchen,1086.98,United Kingdom,2026,5,67,example.com
+TXN10485,CUST-1050,Fiona Smith,fiona.smith@example.com,09-02-1970,05-06-2025,Apparel,489.51,United Kingdom,2025,6,55,example.com
+TXN10570,CUST-1048,Diana Anderson,diana.anderson@example.com,18-09-1958,20-03-2026,Home & Kitchen,571.91,United States,2026,3,68,example.com
+TXN10367,CUST-1019,Ethan Miller,ethan.miller@example.com,24-06-1983,12-05-2026,Electronics,669.86,India,2026,5,43,example.com
+TXN10083,CUST-1083,Hannah Moore,hannah.moore@example.com,23-08-1965,11-09-2025,Books,603.06,Germany,2025,9,60,example.com
+TXN10061,CUST-1061,John Miller,john.miller@example.com,16-03-1980,02-09-2024,Electronics,560.72,United Kingdom,2024,9,44,example.com
+TXN10439,CUST-1004,Bob Taylor,bob.taylor@example.com,21-04-2007,29-10-2024,Sports & Outdoors,1150.88,United Kingdom,2024,10,17,example.com
+TXN10272,CUST-1011,Alice Brown,alice.brown@example.com,22-11-1981,21-07-2025,Home & Kitchen,678.05,Canada,2025,7,44,example.com
+TXN10285,CUST-1024,John Martin,john.martin@example.com,27-04-1967,21-06-2025,Sports & Outdoors,706.75,Canada,2025,6,58,example.com
+TXN10360,CUST-1012,Sarah Garcia,sarah.garcia@example.com,01-07-1962,26-01-2026,Apparel,712.99,United States,2026,1,64,example.com
+TXN10354,CUST-1006,Diana Hernandez,diana.hernandez@example.com,12-07-2013,06-01-2025,Books,995.42,Australia,2025,1,12,example.com
+TXN10994,CUST-1037,Bob Taylor,bob.taylor@example.com,09-09-1986,04-11-2024,Electronics,209.04,Canada,2024,11,38,example.com
+TXN10278,CUST-1017,Kevin Davis,kevin.davis@example.com,22-11-1973,03-05-2025,Books,886.18,United Kingdom,2025,5,52,example.com
+TXN10012,CUST-1012,John Brown,john.brown@example.com,11-11-1984,27-03-2026,Apparel,194,United States,2026,3,42,example.com
+TXN10182,CUST-1008,Ethan Brown,ethan.brown@example.com,15-02-1967,24-01-2026,Books,973.56,United Kingdom,2026,1,59,example.com
+TXN10368,CUST-1020,Ian Wilson,ian.wilson@example.com,26-01-2008,08-01-2024,Sports & Outdoors,139.46,United States,2024,1,16,example.com
+TXN10494,CUST-1059,Bob Johnson,bob.johnson@example.com,01-10-2013,11-01-2025,Electronics,448.58,United Kingdom,2025,1,12,example.com
+TXN10801,CUST-1018,Charlie Miller,charlie.miller@example.com,04-04-1951,03-07-2026,Home & Kitchen,255.03,United States,2026,7,75,example.com
+TXN10223,CUST-1049,Julia Hernandez,julia.hernandez@example.com,26-09-2010,07-09-2024,Home & Kitchen,818.01,Australia,2024,9,14,example.com
+TXN10575,CUST-1053,George Hernandez,george.hernandez@example.com,22-12-1978,24-12-2025,Home & Kitchen,1708.31,Germany,2025,12,47,example.com
+TXN10703,CUST-1007,Kevin Miller,kevin.miller@example.com,13-06-2004,03-07-2025,Electronics,417.18,United Kingdom,2025,7,21,example.com
+TXN10587,CUST-1065,John Rodriguez,john.rodriguez@example.com,21-10-1985,26-12-2024,Home & Kitchen,225.88,United States,2024,12,39,example.com
+TXN10547,CUST-1025,Charlie Brown,charlie.brown@example.com,12-08-1954,10-02-2026,Home & Kitchen,443.66,Australia,2026,2,72,example.com
+TXN10675,CUST-1066,George Garcia,george.garcia@example.com,02-03-1992,10-08-2024,Sports & Outdoors,424.5,United States,2024,8,32,example.com
+TXN10756,CUST-1060,Ian Martinez,ian.martinez@example.com,12-07-1958,31-08-2024,Electronics,1132.08,United States,2024,8,66,example.com
+TXN10176,CUST-1002,Ian Martinez,ian.martinez@example.com,20-08-1989,05-09-2025,Home & Kitchen,425.1,United States,2025,9,36,example.com
+TXN10669,CUST-1060,George Doe,george.doe@example.com,26-02-1974,17-02-2026,Books,215.71,United States,2026,2,52,example.com
+TXN10631,CUST-1022,Alice Rodriguez,alice.rodriguez@example.com,24-11-2010,08-09-2024,Electronics,737.58,United Kingdom,2024,9,14,example.com
+TXN10589,CUST-1067,Jane Brown,jane.brown@example.com,06-03-2003,30-08-2024,Apparel,1159.72,Australia,2024,8,21,example.com
+TXN10522,CUST-1000,Sarah Garcia,sarah.garcia@example.com,10-07-1993,24-02-2025,Apparel,837.84,United States,2025,2,32,example.com
+TXN10393,CUST-1045,Charlie Hernandez,charlie.hernandez@example.com,14-07-2004,18-03-2025,Books,50.08,United Kingdom,2025,3,21,example.com
+TXN10163,CUST-1076,Fiona Thomas,fiona.thomas@example.com,08-06-1960,21-06-2026,Apparel,1007.82,United Kingdom,2026,6,66,example.com
+TXN10248,CUST-1074,Ethan Moore,ethan.moore@example.com,20-01-1997,10-04-2024,Sports & Outdoors,792.84,United States,2024,4,27,example.com
+TXN10638,CUST-1029,Michael Davis,michael.davis@example.com,24-10-1976,31-07-2025,Electronics,907.8,United States,2025,7,49,example.com
+TXN10891,CUST-1021,Jane Garcia,jane.garcia@example.com,15-04-1978,21-11-2025,Books,370.67,Canada,2025,11,47,example.com
+TXN10673,CUST-1064,Fiona Hernandez,fiona.hernandez@example.com,08-07-1975,05-05-2026,Books,583.87,Canada,2026,5,51,example.com
+TXN10375,CUST-1027,Charlie Smith,charlie.smith@example.com,27-04-1972,26-12-2025,Electronics,54.44,United States,2025,12,53,example.com
+TXN10412,CUST-1064,Fiona Anderson,fiona.anderson@example.com,22-07-1962,07-11-2025,Books,798.13,Canada,2025,11,63,example.com
+TXN10074,CUST-1074,Hannah Rodriguez,hannah.rodriguez@example.com,10-03-1996,05-07-2026,Sports & Outdoors,332.8,United States,2026,7,30,example.com
+TXN10113,CUST-1026,Alice Moore,alice.moore@example.com,14-11-1988,22-03-2026,Home & Kitchen,1135.78,United Kingdom,2026,3,38,example.com
+TXN10572,CUST-1050,Charlie Davis,charlie.davis@example.com,20-10-1953,19-10-2025,Sports & Outdoors,717.65,United Kingdom,2025,10,72,example.com
+TXN10643,CUST-1034,Ethan Anderson,ethan.anderson@example.com,18-06-1973,09-07-2026,Electronics,19.29,United States,2026,7,53,example.com
+TXN10390,CUST-1042,Bob Thomas,bob.thomas@example.com,07-02-1988,15-02-2026,Home & Kitchen,517.29,Australia,2026,2,38,example.com
+TXN10104,CUST-1017,Hannah Davis,hannah.davis@example.com,12-08-1959,25-11-2024,Apparel,829.92,Germany,2024,11,65,example.com
+TXN10114,CUST-1027,Sarah Brown,sarah.brown@example.com,18-04-1962,03-03-2026,Books,448.36,India,2026,3,64,example.com
+TXN10417,CUST-1069,John Johnson,john.johnson@example.com,18-09-1988,20-12-2025,Books,439.19,United States,2025,12,37,example.com
+TXN10713,CUST-1017,Jane Martinez,jane.martinez@example.com,21-09-1987,02-05-2026,Sports & Outdoors,920.9,United States,2026,5,39,example.com
+TXN10457,CUST-1022,Alice Wilson,alice.wilson@example.com,07-09-1967,23-10-2025,Electronics,1071.07,India,2025,10,58,example.com
+TXN10409,CUST-1061,Bob Miller,bob.miller@example.com,04-03-1957,19-05-2025,Sports & Outdoors,963.71,Germany,2025,5,68,example.com
+TXN10092,CUST-1005,George Hernandez,george.hernandez@example.com,08-08-2011,08-04-2025,Sports & Outdoors,463.39,Australia,2025,4,14,example.com
+TXN10978,CUST-1021,Kevin Johnson,kevin.johnson@example.com,13-11-2009,11-10-2025,Books,18.86,United States,2025,10,16,example.com
+TXN10089,CUST-1002,Julia Martin,julia.martin@example.com,07-01-2006,19-10-2025,Sports & Outdoors,1113.57,Germany,2025,10,19,example.com
+TXN10336,CUST-1075,John Johnson,john.johnson@example.com,15-11-1975,03-10-2026,Electronics,151.42,Germany,2026,10,51,example.com
+TXN10996,CUST-1039,Charlie Miller,charlie.miller@example.com,24-10-1998,19-10-2025,Electronics,850.47,United Kingdom,2025,10,27,example.com
+TXN10927,CUST-1057,Bob Davis,bob.davis@example.com,20-02-1982,21-08-2025,Books,1109.84,United States,2025,8,43,example.com
+TXN10939,CUST-1069,John Thomas,john.thomas@example.com,25-02-2004,15-09-2025,Sports & Outdoors,665.66,United States,2025,9,21,example.com
+TXN10851,CUST-1068,Michael Doe,michael.doe@example.com,27-08-1950,22-10-2024,Apparel,5.65,Germany,2024,10,74,example.com
+TXN10597,CUST-1075,Ian Smith,ian.smith@example.com,11-11-1964,04-08-2025,Books,684.86,United States,2025,8,61,example.com
+TXN10615,CUST-1006,Hannah Moore,hannah.moore@example.com,14-10-2001,17-11-2025,Sports & Outdoors,824.18,Germany,2025,11,24,example.com
+TXN10094,CUST-1007,Sarah Miller,sarah.miller@example.com,16-09-2007,31-07-2025,Apparel,549.14,United Kingdom,2025,7,18,example.com
+TXN10011,CUST-1011,Diana Hernandez,diana.hernandez@example.com,13-07-1958,16-11-2024,Books,305.44,India,2024,11,66,example.com
+TXN10396,CUST-1048,Hannah Martinez,hannah.martinez@example.com,17-12-2008,16-11-2024,Sports & Outdoors,523.23,United States,2024,11,16,example.com
+TXN10535,CUST-1013,Fiona Anderson,fiona.anderson@example.com,18-11-1958,18-06-2025,Home & Kitchen,920.05,United States,2025,6,67,example.com
+TXN10043,CUST-1043,Ian Brown,ian.brown@example.com,10-09-1988,05-09-2024,Books,485.87,United Kingdom,2024,9,36,example.com
+TXN10042,CUST-1042,George Doe,george.doe@example.com,17-01-2005,14-01-2025,Home & Kitchen,520.4,United Kingdom,2025,1,20,example.com
+TXN10329,CUST-1068,Fiona Martinez,fiona.martinez@example.com,26-06-1983,12-06-2025,Apparel,546.05,United Kingdom,2025,6,42,example.com
+TXN10167,CUST-1080,John Rodriguez,john.rodriguez@example.com,14-05-1968,18-07-2026,Sports & Outdoors,292.47,Canada,2026,7,58,example.com
+TXN10499,CUST-1064,Ian Taylor,ian.taylor@example.com,14-08-1973,16-12-2025,Books,903.87,United Kingdom,2025,12,52,example.com
+TXN10882,CUST-1012,Bob Miller,bob.miller@example.com,07-08-1987,11-10-2024,Sports & Outdoors,57.47,United States,2024,10,37,example.com
+TXN10601,CUST-1079,Diana Thomas,diana.thomas@example.com,04-10-1973,07-09-2025,Apparel,329.44,United States,2025,9,52,example.com
+TXN10761,CUST-1065,Fiona Wilson,fiona.wilson@example.com,16-06-1968,08-07-2025,Apparel,776.25,Australia,2025,7,57,example.com
+TXN10426,CUST-1078,Ian Garcia,ian.garcia@example.com,20-04-1975,25-09-2025,Apparel,1177.7,United States,2025,9,50,example.com
+TXN10178,CUST-1004,John Miller,john.miller@example.com,05-01-2006,12-05-2026,Home & Kitchen,437.77,Australia,2026,5,20,example.com
+TXN10444,CUST-1009,George Johnson,george.johnson@example.com,14-05-1979,17-06-2025,Books,488.32,United Kingdom,2025,6,46,example.com
+TXN10416,CUST-1068,Ian Brown,ian.brown@example.com,21-12-2013,07-01-2026,Electronics,497.74,India,2026,1,13,example.com
+TXN10837,CUST-1054,Michael Anderson,michael.anderson@example.com,27-08-1998,06-11-2024,Home & Kitchen,608.19,Germany,2024,11,26,example.com
+TXN10888,CUST-1018,Fiona Doe,fiona.doe@example.com,28-03-1985,14-02-2025,Sports & Outdoors,255.04,United States,2025,2,40,example.com
+TXN10662,CUST-1053,Laura Anderson,laura.anderson@example.com,04-06-2001,18-08-2024,Sports & Outdoors,389.3,United Kingdom,2024,8,23,example.com
+TXN10177,CUST-1003,Julia Hernandez,julia.hernandez@example.com,26-11-1985,22-05-2026,Electronics,439.16,United States,2026,5,41,example.com
+TXN10395,CUST-1047,Hannah Miller,hannah.miller@example.com,17-07-1963,24-11-2024,Apparel,83.02,United States,2024,11,61,example.com
+TXN10680,CUST-1071,Sarah Brown,sarah.brown@example.com,08-08-2007,25-04-2026,Sports & Outdoors,833.33,Unknown,2026,4,19,example.com
+TXN10799,CUST-1016,George Brown,george.brown@example.com,01-09-2005,14-07-2026,Books,20.9,Germany,2026,7,21,example.com
+TXN10968,CUST-1011,Michael Anderson,michael.anderson@example.com,27-05-1968,12-07-2025,Books,549.66,Australia,2025,7,57,example.com
+TXN10688,CUST-1079,Julia Moore,julia.moore@example.com,17-09-2012,16-03-2026,Books,640.63,India,2026,3,14,example.com
+TXN10383,CUST-1035,Sarah Johnson,sarah.johnson@example.com,21-05-1993,21-08-2025,Apparel,789.06,United Kingdom,2025,8,32,example.com
+TXN10964,CUST-1007,Sarah Johnson,sarah.johnson@example.com,19-04-1992,11-11-2024,Electronics,455.53,Canada,2024,11,32,example.com
+TXN10616,CUST-1007,Kevin Johnson,kevin.johnson@example.com,27-04-1993,08-08-2024,Sports & Outdoors,942.26,Canada,2024,8,31,example.com
+TXN10257,CUST-1083,Fiona Johnson,fiona.johnson@example.com,25-10-1993,29-10-2024,Sports & Outdoors,1162.86,United Kingdom,2024,10,31,example.com
+TXN10335,CUST-1074,Charlie Garcia,charlie.garcia@example.com,22-06-2001,12-10-2024,Electronics,1101.33,United States,2024,10,23,example.com
+TXN10015,CUST-1015,Alice Johnson,alice.johnson@example.com,25-02-2012,20-01-2025,Home & Kitchen,991.33,India,2025,1,13,example.com
+TXN10633,CUST-1024,Hannah Davis,hannah.davis@example.com,20-12-1954,11-09-2025,Sports & Outdoors,78.39,Germany,2025,9,71,example.com
+TXN10324,CUST-1063,Michael Taylor,michael.taylor@example.com,24-04-2013,06-01-2025,Home & Kitchen,12.62,Canada,2025,1,12,example.com
+TXN10890,CUST-1020,Diana Anderson,diana.anderson@example.com,23-09-1997,12-03-2025,Books,325.66,Canada,2025,3,28,example.com
+TXN10222,CUST-1048,Hannah Brown,hannah.brown@example.com,20-06-1987,05-12-2025,Home & Kitchen,576.43,Germany,2025,12,38,example.com
+TXN10179,CUST-1005,Jane Miller,jane.miller@example.com,12-06-2007,21-04-2025,Electronics,637.7,Canada,2025,4,18,example.com
+TXN10991,CUST-1034,Kevin Smith,kevin.smith@example.com,09-02-1981,14-03-2026,Sports & Outdoors,822.36,Canada,2026,3,45,example.com
+TXN10022,CUST-1022,Michael Miller,michael.miller@example.com,09-03-2004,02-04-2025,Home & Kitchen,534.54,India,2025,4,21,example.com
+TXN10356,CUST-1008,Alice Anderson,alice.anderson@example.com,06-07-1971,04-05-2026,Sports & Outdoors,408.85,Australia,2026,5,55,example.com
+TXN10670,CUST-1061,Jane Taylor,jane.taylor@example.com,14-04-1986,04-11-2025,Apparel,56.76,United States,2025,11,39,example.com
+TXN10867,CUST-1084,Ian Wilson,ian.wilson@example.com,16-02-1981,17-11-2025,Apparel,986.85,India,2025,11,44,example.com
+TXN10340,CUST-1079,Laura Garcia,laura.garcia@example.com,26-11-1981,09-01-2025,Electronics,939.39,Unknown,2025,1,44,example.com
+TXN10431,CUST-1083,Kevin Rodriguez,kevin.rodriguez@example.com,10-12-2015,09-08-2024,Electronics,468.13,United Kingdom,2024,8,9,example.com
+TXN10953,CUST-1083,Kevin Brown,kevin.brown@example.com,11-02-1985,19-06-2026,Sports & Outdoors,576.09,United States,2026,6,41,example.com
+TXN10858,CUST-1075,Ethan Moore,ethan.moore@example.com,24-04-1951,29-06-2026,Apparel,233.86,Australia,2026,6,75,example.com
+TXN10203,CUST-1029,Sarah Martinez,sarah.martinez@example.com,12-01-2010,14-08-2025,Electronics,702.52,United States,2025,8,15,example.com
+TXN10634,CUST-1025,Diana Doe,diana.doe@example.com,20-12-1987,22-06-2026,Apparel,103.6,India,2026,6,39,example.com
+TXN10093,CUST-1006,Charlie Johnson,charlie.johnson@example.com,11-07-1985,15-02-2025,Apparel,342.99,United Kingdom,2025,2,40,example.com
+TXN10969,CUST-1012,Hannah Miller,hannah.miller@example.com,11-10-1954,06-09-2025,Sports & Outdoors,331.78,Australia,2025,9,71,example.com
+TXN10068,CUST-1068,Diana Martin,diana.martin@example.com,26-06-1977,28-10-2025,Apparel,1056.98,United Kingdom,2025,10,48,example.com
+TXN10626,CUST-1017,Charlie Smith,charlie.smith@example.com,01-11-1959,22-02-2026,Books,526.9,United States,2026,2,67,example.com
+TXN10284,CUST-1023,Diana Martin,diana.martin@example.com,06-03-1986,31-08-2025,Books,69.07,United Kingdom,2025,8,39,example.com
+TXN10434,CUST-1086,Bob Thomas,bob.thomas@example.com,09-07-1955,27-12-2024,Apparel,197.31,United Kingdom,2024,12,69,example.com
+TXN10153,CUST-1066,Charlie Anderson,charlie.anderson@example.com,22-10-1960,25-02-2026,Apparel,1161.4,Canada,2026,2,66,example.com
+TXN10075,CUST-1075,Hannah Miller,hannah.miller@example.com,28-02-2012,07-07-2026,Sports & Outdoors,706.75,Germany,2026,7,14,example.com
+TXN10971,CUST-1014,Fiona Doe,fiona.doe@example.com,24-08-1972,13-06-2025,Apparel,1189.32,India,2025,6,53,example.com
+TXN10446,CUST-1011,Jane Johnson,jane.johnson@example.com,04-09-1995,26-09-2025,Apparel,341.41,Germany,2025,9,30,example.com
+TXN10188,CUST-1014,Ian Rodriguez,ian.rodriguez@example.com,10-09-1994,30-04-2026,Apparel,763.89,India,2026,4,32,example.com
+TXN10271,CUST-1010,Michael Martin,michael.martin@example.com,17-09-2001,10-08-2024,Books,48.93,United Kingdom,2024,8,23,example.com
+TXN10236,CUST-1062,Laura Hernandez,laura.hernandez@example.com,13-05-1969,12-01-2026,Sports & Outdoors,292.96,United Kingdom,2026,1,57,example.com
+TXN10487,CUST-1052,Fiona Garcia,fiona.garcia@example.com,19-07-2008,15-07-2026,Apparel,491.53,United States,2026,7,18,example.com
+TXN10117,CUST-1030,Julia Doe,julia.doe@example.com,07-05-2000,16-03-2026,Books,797.01,Australia,2026,3,26,example.com
+TXN10824,CUST-1041,Hannah Garcia,hannah.garcia@example.com,18-09-1961,09-03-2025,Sports & Outdoors,909.67,United States,2025,3,64,example.com
+TXN10512,CUST-1077,Michael Miller,michael.miller@example.com,27-09-1966,26-01-2026,Electronics,797.94,United Kingdom,2026,1,60,example.com
+TXN10595,CUST-1073,Michael Brown,michael.brown@example.com,14-10-1976,22-05-2025,Electronics,422.83,Unknown,2025,5,49,example.com
+TXN10126,CUST-1039,Ethan Hernandez,ethan.hernandez@example.com,14-04-2007,06-08-2025,Books,502.11,United States,2025,8,18,example.com
+TXN10116,CUST-1029,Jane Taylor,jane.taylor@example.com,15-08-1977,20-11-2025,Apparel,1177.21,United Kingdom,2025,11,48,example.com
+TXN10473,CUST-1038,Bob Davis,bob.davis@example.com,20-10-2010,10-06-2026,Sports & Outdoors,116.36,United States,2026,6,16,example.com
+TXN10697,CUST-1001,Charlie Taylor,charlie.taylor@example.com,06-09-2007,19-01-2025,Apparel,1104.92,Canada,2025,1,18,example.com
+TXN10057,CUST-1057,Diana Moore,diana.moore@example.com,18-10-1966,22-06-2026,Books,679.45,United States,2026,6,60,example.com
+TXN10678,CUST-1069,George Smith,george.smith@example.com,28-12-2004,09-11-2025,Home & Kitchen,523.93,United Kingdom,2025,11,21,example.com
+TXN10918,CUST-1048,Charlie Martin,charlie.martin@example.com,06-03-1985,01-07-2026,Sports & Outdoors,216.8,United States,2026,7,41,example.com
+TXN10369,CUST-1021,Charlie Brown,charlie.brown@example.com,25-10-1963,07-04-2026,Apparel,1054.08,United Kingdom,2026,4,63,example.com
+TXN10268,CUST-1007,Ian Thomas,ian.thomas@example.com,12-07-1985,25-03-2026,Sports & Outdoors,712.71,India,2026,3,41,example.com
+TXN10046,CUST-1046,Ethan Martin,ethan.martin@example.com,03-11-1971,02-10-2025,Sports & Outdoors,116.6,United Kingdom,2025,10,54,example.com
+TXN10349,CUST-1001,Laura Martin,laura.martin@example.com,23-03-1990,21-12-2024,Sports & Outdoors,271.77,Australia,2024,12,34,example.com
+TXN10195,CUST-1021,Jane Martinez,jane.martinez@example.com,14-10-1999,07-11-2025,Home & Kitchen,1400.96,United Kingdom,2025,11,26,example.com
+TXN10115,CUST-1028,Laura Miller,laura.miller@example.com,04-11-2003,05-03-2025,Sports & Outdoors,999.99,United Kingdom,2025,3,22,example.com
+TXN10946,CUST-1076,Charlie Wilson,charlie.wilson@example.com,19-10-1981,09-09-2024,Home & Kitchen,144.49,United States,2024,9,43,example.com
+TXN10741,CUST-1045,John Anderson,john.anderson@example.com,14-02-1998,31-07-2025,Apparel,424.77,United Kingdom,2025,7,27,example.com
+TXN10263,CUST-1002,Fiona Davis,fiona.davis@example.com,05-03-1998,17-10-2025,Apparel,594.28,United States,2025,10,27,example.com
+TXN10443,CUST-1008,Alice Miller,alice.miller@example.com,23-08-1953,14-08-2025,Electronics,92.53,United States,2025,8,72,example.com
+TXN10679,CUST-1070,Charlie Smith,charlie.smith@example.com,02-01-2003,25-03-2025,Sports & Outdoors,513.71,Canada,2025,3,22,example.com
+TXN10304,CUST-1043,Charlie Thomas,charlie.thomas@example.com,22-11-1967,23-02-2026,Electronics,734.33,United States,2026,2,59,example.com
+TXN10341,CUST-1080,Julia Martin,julia.martin@example.com,19-06-2012,20-02-2025,Apparel,328.17,United States,2025,2,13,example.com
+TXN10602,CUST-1080,Sarah Rodriguez,sarah.rodriguez@example.com,27-08-1997,13-09-2025,Home & Kitchen,214.14,United Kingdom,2025,9,28,example.com
+TXN10974,CUST-1017,Michael Davis,michael.davis@example.com,23-08-1967,12-03-2025,Apparel,255.67,United Kingdom,2025,3,58,example.com
+TXN10149,CUST-1062,Ethan Anderson,ethan.anderson@example.com,05-09-2010,17-05-2026,Books,974.11,United Kingdom,2026,5,16,example.com
+TXN10124,CUST-1037,Sarah Moore,sarah.moore@example.com,11-02-1959,04-11-2024,Home & Kitchen,155.8,Australia,2024,11,65,example.com
+TXN10892,CUST-1022,Diana Taylor,diana.taylor@example.com,03-09-1982,04-03-2026,Electronics,536.18,United Kingdom,2026,3,44,example.com
+TXN10828,CUST-1045,Charlie Thomas,charlie.thomas@example.com,11-02-1981,06-02-2025,Sports & Outdoors,988.3,United Kingdom,2025,2,44,example.com
+TXN10353,CUST-1005,Ethan Rodriguez,ethan.rodriguez@example.com,09-06-1958,31-03-2026,Electronics,466.19,Canada,2026,3,68,example.com
+TXN10933,CUST-1063,John Rodriguez,john.rodriguez@example.com,08-06-1992,21-12-2025,Sports & Outdoors,1088.43,United Kingdom,2025,12,33,example.com
+TXN10142,CUST-1055,Alice Hernandez,alice.hernandez@example.com,14-04-1963,23-11-2024,Books,98.98,United Kingdom,2024,11,61,example.com
+TXN10470,CUST-1035,John Martinez,john.martinez@example.com,15-04-1960,05-11-2024,Books,208.83,Canada,2024,11,64,example.com
+TXN10399,CUST-1051,Jane Doe,jane.doe@example.com,27-11-1963,29-06-2026,Electronics,503.05,Canada,2026,6,63,example.com
+TXN10629,CUST-1020,Fiona Wilson,fiona.wilson@example.com,19-09-2002,09-07-2025,Electronics,683.94,United Kingdom,2025,7,23,example.com
+TXN10019,CUST-1019,Alice Rodriguez,alice.rodriguez@example.com,16-11-1985,12-12-2025,Sports & Outdoors,869.41,Australia,2025,12,40,example.com
+TXN10906,CUST-1036,Alice Thomas,alice.thomas@example.com,08-04-1986,24-09-2025,Sports & Outdoors,548.32,United Kingdom,2025,9,39,example.com
+TXN10803,CUST-1020,Diana Miller,diana.miller@example.com,16-08-2006,29-06-2026,Books,294.94,United Kingdom,2026,6,20,example.com
+TXN10814,CUST-1031,Bob Brown,bob.brown@example.com,04-09-1955,29-01-2026,Electronics,1093.63,United States,2026,1,71,example.com
+TXN10407,CUST-1059,Ian Taylor,ian.taylor@example.com,09-10-2006,15-04-2026,Apparel,223.53,Canada,2026,4,20,example.com
+TXN10537,CUST-1015,Diana Doe,diana.doe@example.com,16-02-1975,04-01-2026,Electronics,687.36,Canada,2026,1,51,example.com
+TXN10869,CUST-1086,Jane Thomas,jane.thomas@example.com,03-12-1990,11-03-2026,Electronics,70.47,Australia,2026,3,36,example.com
+TXN10038,CUST-1038,Kevin Doe,kevin.doe@example.com,07-04-2010,04-04-2025,Apparel,985.54,United Kingdom,2025,4,15,example.com
+TXN10175,CUST-1001,George Johnson,george.johnson@example.com,14-02-2004,10-11-2024,Home & Kitchen,2284.85,United States,2024,11,20,example.com
+TXN10245,CUST-1071,Sarah Anderson,sarah.anderson@example.com,24-08-1982,30-09-2024,Books,206.04,United Kingdom,2024,9,42,example.com
+TXN10834,CUST-1051,Hannah Doe,hannah.doe@example.com,12-02-1969,10-09-2025,Apparel,356.31,United States,2025,9,56,example.com
+TXN10845,CUST-1062,Diana Doe,diana.doe@example.com,01-03-1991,19-07-2024,Electronics,470.98,United Kingdom,2024,7,33,example.com
+TXN10759,CUST-1063,Ethan Miller,ethan.miller@example.com,07-03-1963,11-10-2025,Books,308.9,Australia,2025,10,62,example.com
+TXN10864,CUST-1081,Jane Rodriguez,jane.rodriguez@example.com,14-05-1956,20-01-2025,Books,11.17,United Kingdom,2025,1,69,example.com
+TXN10154,CUST-1067,Charlie Johnson,charlie.johnson@example.com,13-09-1989,29-09-2024,Apparel,805.79,India,2024,9,35,example.com
+TXN10287,CUST-1026,Hannah Doe,hannah.doe@example.com,18-04-1985,27-09-2025,Home & Kitchen,680.95,Germany,2025,9,40,example.com
+TXN10613,CUST-1004,Ian Moore,ian.moore@example.com,03-01-2012,20-03-2025,Electronics,576.99,United States,2025,3,13,example.com
+TXN10569,CUST-1047,Ethan Miller,ethan.miller@example.com,10-03-1975,13-08-2024,Sports & Outdoors,518.93,United States,2024,8,49,example.com
+TXN10819,CUST-1036,John Moore,john.moore@example.com,23-01-1968,05-02-2025,Electronics,409.27,Canada,2025,2,57,example.com
+TXN10017,CUST-1017,Michael Moore,michael.moore@example.com,08-04-1965,15-05-2026,Apparel,708.03,United Kingdom,2026,5,61,example.com
+TXN10127,CUST-1040,Ian Hernandez,ian.hernandez@example.com,09-11-1990,01-07-2025,Home & Kitchen,85.22,United States,2025,7,35,example.com
+TXN10322,CUST-1061,Jane Davis,jane.davis@example.com,02-09-1978,04-06-2025,Electronics,1039.91,United Kingdom,2025,6,47,example.com
+TXN10255,CUST-1081,John Garcia,john.garcia@example.com,27-12-1968,07-06-2025,Electronics,247.86,Unknown,2025,6,57,example.com
+TXN10987,CUST-1030,Fiona Doe,fiona.doe@example.com,10-03-1974,11-12-2025,Home & Kitchen,712.18,United Kingdom,2025,12,51,example.com
+TXN10972,CUST-1015,Kevin Anderson,kevin.anderson@example.com,16-11-2004,28-07-2025,Books,90.83,United Kingdom,2025,7,21,example.com
+TXN10620,CUST-1011,John Miller,john.miller@example.com,18-08-1969,24-09-2025,Books,695.63,United Kingdom,2025,9,56,example.com
+TXN10606,CUST-1084,Bob Martinez,bob.martinez@example.com,25-10-1952,03-09-2025,Home & Kitchen,244.66,United Kingdom,2025,9,73,example.com
+TXN10301,CUST-1040,Fiona Hernandez,fiona.hernandez@example.com,04-12-1961,18-07-2026,Home & Kitchen,98.14,Australia,2026,7,65,example.com
+TXN10764,CUST-1068,Hannah Garcia,hannah.garcia@example.com,21-08-1970,29-08-2025,Books,332.47,United States,2025,8,55,example.com
+TXN10717,CUST-1021,Bob Hernandez,bob.hernandez@example.com,04-02-2008,07-03-2026,Electronics,421.11,United Kingdom,2026,3,18,example.com
+TXN10728,CUST-1032,Hannah Moore,hannah.moore@example.com,27-11-1989,21-04-2025,Home & Kitchen,352.25,Canada,2025,4,36,example.com
+TXN10689,CUST-1080,Hannah Moore,hannah.moore@example.com,23-11-1997,13-05-2026,Home & Kitchen,109.33,Canada,2026,5,29,example.com
+TXN10517,CUST-1082,Julia Garcia,julia.garcia@example.com,14-09-2002,10-06-2025,Home & Kitchen,859.35,Canada,2025,6,23,example.com
+TXN10992,CUST-1035,Alice Anderson,alice.anderson@example.com,11-06-1961,13-10-2025,Home & Kitchen,332.01,United States,2025,10,64,example.com
+TXN10045,CUST-1045,Hannah Martinez,hannah.martinez@example.com,26-07-1976,03-12-2024,Sports & Outdoors,700.16,Germany,2024,12,48,example.com
+TXN10915,CUST-1045,Laura Moore,laura.moore@example.com,07-05-1971,16-02-2025,Electronics,44.94,Germany,2025,2,54,example.com
+TXN10157,CUST-1070,Jane Anderson,jane.anderson@example.com,13-10-1966,12-02-2026,Home & Kitchen,998.46,Australia,2026,2,60,example.com
+TXN10749,CUST-1053,Ian Garcia,ian.garcia@example.com,09-07-2003,18-10-2024,Sports & Outdoors,807.51,India,2024,10,21,example.com
+TXN10171,CUST-1084,Sarah Davis,sarah.davis@example.com,23-02-1967,07-04-2025,Electronics,245.9,United Kingdom,2025,4,58,example.com
+TXN10016,CUST-1016,Diana Wilson,diana.wilson@example.com,18-04-2004,08-12-2024,Home & Kitchen,481.8,United Kingdom,2024,12,20,example.com
+TXN10511,CUST-1076,Alice Brown,alice.brown@example.com,05-10-1983,24-04-2026,Books,279.08,United Kingdom,2026,4,43,example.com
+TXN10048,CUST-1048,Michael Hernandez,michael.hernandez@example.com,23-12-1974,21-06-2025,Books,296.56,United States,2025,6,51,example.com
+TXN10979,CUST-1022,Alice Brown,alice.brown@example.com,22-11-2012,13-02-2025,Home & Kitchen,706.29,Australia,2025,2,13,example.com
+TXN10846,CUST-1063,Charlie Hernandez,charlie.hernandez@example.com,13-05-1991,18-03-2026,Electronics,291.35,Australia,2026,3,35,example.com
+TXN10515,CUST-1080,George Miller,george.miller@example.com,01-01-1988,30-01-2025,Home & Kitchen,347.68,India,2025,1,37,example.com
+TXN10829,CUST-1046,Michael Brown,michael.brown@example.com,14-12-1968,24-05-2025,Electronics,79.32,United States,2025,5,57,example.com
+TXN10283,CUST-1022,Kevin Hernandez,kevin.hernandez@example.com,13-10-1967,12-05-2025,Home & Kitchen,764.42,United States,2025,5,58,example.com
+TXN10723,CUST-1027,Julia Taylor,julia.taylor@example.com,25-09-1970,30-10-2024,Home & Kitchen,123.43,Australia,2024,10,54,example.com
+TXN10684,CUST-1075,Ethan Johnson,ethan.johnson@example.com,02-12-1992,07-02-2025,Apparel,137.61,United Kingdom,2025,2,33,example.com
+TXN10225,CUST-1051,Diana Anderson,diana.anderson@example.com,22-02-2006,21-12-2025,Sports & Outdoors,140.96,India,2025,12,19,example.com
+TXN10026,CUST-1026,Jane Martin,jane.martin@example.com,06-09-2014,22-05-2026,Sports & Outdoors,1022.35,United States,2026,5,12,example.com
+TXN10787,CUST-1004,Michael Martin,michael.martin@example.com,09-11-2008,18-11-2024,Electronics,1163.88,Australia,2024,11,16,example.com
+TXN10437,CUST-1002,Alice Davis,alice.davis@example.com,18-09-2003,01-06-2025,Electronics,269.33,United Kingdom,2025,6,22,example.com
+TXN10958,CUST-1001,Fiona Taylor,fiona.taylor@example.com,22-10-2007,13-09-2024,Books,498.69,United Kingdom,2024,9,17,example.com
+TXN10364,CUST-1016,Fiona Doe,fiona.doe@example.com,14-09-1999,17-01-2025,Books,1058.58,Germany,2025,1,26,example.com
+TXN10229,CUST-1055,Julia Thomas,julia.thomas@example.com,13-07-2007,28-04-2026,Sports & Outdoors,785.97,United Kingdom,2026,4,19,example.com
+TXN10037,CUST-1037,Laura Smith,laura.smith@example.com,11-12-1972,24-05-2025,Home & Kitchen,195.24,United States,2025,5,53,example.com
+TXN10973,CUST-1016,Hannah Garcia,hannah.garcia@example.com,05-02-2000,22-08-2025,Sports & Outdoors,1020.52,United Kingdom,2025,8,25,example.com
+TXN10374,CUST-1026,Sarah Taylor,sarah.taylor@example.com,26-09-1957,07-02-2026,Electronics,852.94,Canada,2026,2,69,example.com
+TXN10469,CUST-1034,Jane Miller,jane.miller@example.com,09-03-1957,16-01-2026,Sports & Outdoors,721.23,Australia,2026,1,69,example.com
+TXN10975,CUST-1018,John Taylor,john.taylor@example.com,26-11-1963,18-02-2026,Books,1020.77,United States,2026,2,63,example.com
+TXN10881,CUST-1011,Kevin Garcia,kevin.garcia@example.com,27-03-2001,13-07-2026,Apparel,93.11,United States,2026,7,25,example.com
+TXN10708,CUST-1012,Hannah Martin,hannah.martin@example.com,01-04-2009,17-07-2026,Home & Kitchen,363.7,Germany,2026,7,17,example.com
+TXN10730,CUST-1034,Michael Johnson,michael.johnson@example.com,13-03-1965,04-06-2025,Sports & Outdoors,891.01,United States,2025,6,60,example.com
+TXN10194,CUST-1020,Julia Brown,julia.brown@example.com,15-04-1990,16-03-2026,Apparel,301.26,United States,2026,3,36,example.com
+TXN10870,CUST-1000,Laura Johnson,laura.johnson@example.com,11-02-1963,24-12-2024,Electronics,1275.64,Canada,2024,12,61,example.com
+TXN10503,CUST-1068,Jane Garcia,jane.garcia@example.com,27-08-1982,13-10-2024,Electronics,894.79,United Kingdom,2024,10,42,example.com
+TXN10977,CUST-1020,Kevin Rodriguez,kevin.rodriguez@example.com,08-02-1954,08-06-2025,Books,827.14,United States,2025,6,71,example.com
+TXN10836,CUST-1053,John Brown,john.brown@example.com,28-02-1994,04-06-2026,Books,689.81,Australia,2026,6,32,example.com
+TXN10579,CUST-1057,Hannah Doe,hannah.doe@example.com,27-08-1968,26-09-2024,Books,868.56,United States,2024,9,56,example.com
+TXN10976,CUST-1019,Jane Brown,jane.brown@example.com,06-08-1995,27-05-2026,Electronics,714.1,United States,2026,5,31,example.com
+TXN10162,CUST-1075,Laura Johnson,laura.johnson@example.com,12-08-1978,22-06-2026,Books,478.76,United Kingdom,2026,6,48,example.com
+TXN10706,CUST-1010,Kevin Johnson,kevin.johnson@example.com,21-07-1950,13-10-2025,Books,669.2,Australia,2025,10,75,example.com
+TXN10152,CUST-1065,Alice Anderson,alice.anderson@example.com,22-09-1962,19-06-2025,Apparel,869.86,Australia,2025,6,63,example.com
+TXN10685,CUST-1076,Michael Doe,michael.doe@example.com,06-06-1996,24-09-2024,Sports & Outdoors,675.11,United Kingdom,2024,9,28,example.com
+TXN10704,CUST-1008,Michael Johnson,michael.johnson@example.com,15-12-1977,20-05-2025,Books,200.73,Canada,2025,5,48,example.com
+TXN10111,CUST-1024,Julia Johnson,julia.johnson@example.com,09-01-2000,16-01-2025,Electronics,445.46,United Kingdom,2025,1,25,example.com
+TXN10226,CUST-1052,Michael Doe,michael.doe@example.com,17-03-2008,20-05-2025,Books,74,Germany,2025,5,17,example.com
+TXN10692,CUST-1083,Hannah Garcia,hannah.garcia@example.com,28-01-1958,24-11-2025,Sports & Outdoors,496.97,United Kingdom,2025,11,67,example.com
+TXN10103,CUST-1016,Charlie Rodriguez,charlie.rodriguez@example.com,09-11-2009,05-04-2025,Apparel,1079.2,Germany,2025,4,16,example.com
+TXN10421,CUST-1073,Ethan Brown,ethan.brown@example.com,15-04-2000,05-01-2026,Apparel,909.79,United States,2026,1,26,example.com
+TXN10419,CUST-1071,Michael Brown,michael.brown@example.com,08-11-1962,17-07-2026,Apparel,996.71,United Kingdom,2026,7,64,example.com
+TXN10755,CUST-1059,George Wilson,george.wilson@example.com,28-11-1972,06-06-2026,Books,71.12,United States,2026,6,54,example.com
+TXN10586,CUST-1064,Sarah Rodriguez,sarah.rodriguez@example.com,22-10-1977,19-03-2025,Books,533.04,Australia,2025,3,48,example.com
+TXN10785,CUST-1002,Ethan Smith,ethan.smith@example.com,03-07-1973,09-11-2025,Books,117.69,United Kingdom,2025,11,52,example.com
+TXN10672,CUST-1063,Ian Hernandez,ian.hernandez@example.com,22-12-1975,20-08-2025,Home & Kitchen,394.73,United States,2025,8,50,example.com
+TXN10119,CUST-1032,Ethan Garcia,ethan.garcia@example.com,25-06-1979,18-02-2026,Sports & Outdoors,336.34,United States,2026,2,47,example.com
+TXN10053,CUST-1053,Alice Miller,alice.miller@example.com,13-04-1969,08-08-2024,Home & Kitchen,81.75,Canada,2024,8,55,example.com
+TXN10151,CUST-1064,Julia Taylor,julia.taylor@example.com,14-07-1986,07-08-2025,Sports & Outdoors,948.13,United Kingdom,2025,8,39,example.com
+TXN10403,CUST-1055,Diana Doe,diana.doe@example.com,23-04-2013,14-03-2025,Apparel,8.27,United States,2025,3,12,example.com
+TXN10951,CUST-1081,Sarah Davis,sarah.davis@example.com,15-02-2014,16-12-2024,Home & Kitchen,245.12,United States,2024,12,10,example.com
+TXN10207,CUST-1033,Charlie Garcia,charlie.garcia@example.com,16-11-1991,27-01-2025,Books,1148.24,Germany,2025,1,34,example.com
+TXN10658,CUST-1049,Kevin Brown,kevin.brown@example.com,22-11-1977,30-01-2025,Books,1044.89,India,2025,1,48,example.com
+TXN10849,CUST-1066,Bob Rodriguez,bob.rodriguez@example.com,19-05-1966,29-05-2025,Books,1016.3,India,2025,5,59,example.com
+TXN10767,CUST-1071,Diana Moore,diana.moore@example.com,13-01-1967,27-12-2025,Apparel,693.09,United States,2025,12,58,example.com
+TXN10008,CUST-1008,Fiona Doe,fiona.doe@example.com,09-07-1990,13-05-2026,Home & Kitchen,259.09,Germany,2026,5,36,example.com
+TXN10813,CUST-1030,George Miller,george.miller@example.com,22-10-2015,04-04-2026,Electronics,959.79,United States,2026,4,11,example.com
+TXN10036,CUST-1036,Bob Taylor,bob.taylor@example.com,24-10-2002,11-02-2026,Home & Kitchen,1171.57,United States,2026,2,24,example.com
+TXN10452,CUST-1017,Michael Johnson,michael.johnson@example.com,03-11-1987,05-11-2025,Electronics,872.08,Germany,2025,11,38,example.com
+TXN10651,CUST-1042,Sarah Miller,sarah.miller@example.com,22-01-1950,15-06-2025,Apparel,841.57,Canada,2025,6,75,example.com
+TXN10253,CUST-1079,Diana Johnson,diana.johnson@example.com,21-07-2013,14-08-2025,Sports & Outdoors,1074.28,United States,2025,8,12,example.com
+TXN10303,CUST-1042,Alice Rodriguez,alice.rodriguez@example.com,24-02-1999,06-04-2026,Electronics,444.24,United Kingdom,2026,4,27,example.com
+TXN10751,CUST-1055,Laura Doe,laura.doe@example.com,15-06-1975,18-02-2026,Home & Kitchen,896.99,United Kingdom,2026,2,51,example.com
+TXN10571,CUST-1049,John Anderson,john.anderson@example.com,10-07-2002,22-04-2025,Apparel,936.03,United States,2025,4,23,example.com
+TXN10623,CUST-1014,Jane Smith,jane.smith@example.com,28-02-1995,04-10-2025,Electronics,520.9,Australia,2025,10,30,example.com
+TXN10714,CUST-1018,Bob Davis,bob.davis@example.com,27-06-1991,17-08-2024,Apparel,824.11,United Kingdom,2024,8,33,example.com
+TXN10898,CUST-1028,Hannah Taylor,hannah.taylor@example.com,27-07-2001,03-12-2024,Electronics,786.64,United States,2024,12,23,example.com
+TXN10262,CUST-1001,Julia Johnson,julia.johnson@example.com,01-07-1991,24-09-2025,Books,936.11,India,2025,9,34,example.com
+TXN10610,CUST-1001,Bob Thomas,bob.thomas@example.com,14-02-1956,13-06-2025,Home & Kitchen,741.5,United Kingdom,2025,6,69,example.com
+TXN10297,CUST-1036,Ethan Hernandez,ethan.hernandez@example.com,09-08-1977,23-08-2025,Apparel,659.04,United States,2025,8,48,example.com
+TXN10414,CUST-1066,Sarah Anderson,sarah.anderson@example.com,09-06-1980,29-05-2026,Sports & Outdoors,662.84,Canada,2026,5,46,example.com
+TXN10150,CUST-1063,Alice Davis,alice.davis@example.com,23-04-1955,27-04-2025,Books,786.51,United States,2025,4,70,example.com
+TXN10793,CUST-1010,Alice Doe,alice.doe@example.com,15-06-2015,26-08-2024,Home & Kitchen,1117.15,India,2024,8,9,example.com
+TXN10895,CUST-1025,Julia Johnson,julia.johnson@example.com,17-09-1987,06-01-2025,Electronics,1112.29,United States,2025,1,38,example.com
+TXN10796,CUST-1013,Laura Hernandez,laura.hernandez@example.com,22-08-1962,14-12-2024,Apparel,309.56,United States,2024,12,62,example.com
+TXN10488,CUST-1053,Alice Martinez,alice.martinez@example.com,26-02-1993,02-09-2025,Apparel,834.56,Canada,2025,9,32,example.com
+TXN10710,CUST-1014,Sarah Johnson,sarah.johnson@example.com,16-10-1996,17-12-2024,Books,755.46,Germany,2024,12,28,example.com
+TXN10147,CUST-1060,Jane Taylor,jane.taylor@example.com,10-02-2014,03-04-2025,Books,72.98,United Kingdom,2025,4,11,example.com
+TXN10146,CUST-1059,Ian Anderson,ian.anderson@example.com,03-08-1969,26-03-2025,Books,366.87,United Kingdom,2025,3,56,example.com
+TXN10847,CUST-1064,Fiona Martin,fiona.martin@example.com,13-09-2015,24-03-2026,Apparel,385.41,India,2026,3,11,example.com
+TXN10937,CUST-1067,Hannah Martinez,hannah.martinez@example.com,07-11-2007,14-10-2025,Books,1141.46,United Kingdom,2025,10,18,example.com
+TXN10784,CUST-1001,Bob Taylor,bob.taylor@example.com,28-04-1961,10-02-2025,Home & Kitchen,901.17,United Kingdom,2025,2,64,example.com
+TXN10659,CUST-1050,Charlie Rodriguez,charlie.rodriguez@example.com,24-01-1959,25-02-2026,Books,27.78,Australia,2026,2,67,example.com
+TXN10348,CUST-1000,Alice Taylor,alice.taylor@example.com,04-10-2000,09-08-2025,Apparel,168.06,United States,2025,8,25,example.com
+TXN10463,CUST-1028,Julia Thomas,julia.thomas@example.com,02-08-2010,09-06-2026,Apparel,845.96,India,2026,6,16,example.com
+TXN10325,CUST-1064,John Rodriguez,john.rodriguez@example.com,27-11-1994,08-08-2024,Electronics,1005.85,Canada,2024,8,30,example.com
+TXN10186,CUST-1012,Alice Miller,alice.miller@example.com,03-11-1990,15-04-2025,Books,623.25,United States,2025,4,35,example.com
+TXN10123,CUST-1036,Jane Martinez,jane.martinez@example.com,01-11-2008,18-05-2026,Books,514.4,United States,2026,5,18,example.com
+TXN10859,CUST-1076,Hannah Rodriguez,hannah.rodriguez@example.com,12-08-1979,12-06-2026,Apparel,1085.89,Australia,2026,6,47,example.com
+TXN10608,CUST-1086,Bob Garcia,bob.garcia@example.com,11-09-1994,15-10-2025,Home & Kitchen,691.03,United States,2025,10,31,example.com
+TXN10143,CUST-1056,Ian Rodriguez,ian.rodriguez@example.com,03-03-1992,12-02-2025,Electronics,1087.58,United Kingdom,2025,2,33,example.com
+TXN10966,CUST-1009,Ethan Brown,ethan.brown@example.com,28-03-1997,02-09-2025,Books,885.62,United Kingdom,2025,9,28,example.com
+TXN10197,CUST-1023,Michael Rodriguez,michael.rodriguez@example.com,12-10-1977,31-05-2026,Electronics,596.4,Germany,2026,5,49,example.com
+TXN10609,CUST-1000,Alice Martinez,alice.martinez@example.com,15-09-1993,29-05-2026,Home & Kitchen,567.53,United States,2026,5,33,example.com
+TXN10279,CUST-1018,Michael Hernandez,michael.hernandez@example.com,23-01-1999,12-12-2025,Home & Kitchen,904.03,United States,2025,12,26,example.com
+TXN10293,CUST-1032,Bob Miller,bob.miller@example.com,09-01-2002,16-09-2024,Home & Kitchen,303.36,United Kingdom,2024,9,22,example.com
+TXN10122,CUST-1035,Sarah Moore,sarah.moore@example.com,19-09-1996,30-03-2026,Books,269.75,Australia,2026,3,30,example.com
+TXN10183,CUST-1009,Julia Johnson,julia.johnson@example.com,28-05-1987,08-02-2026,Home & Kitchen,612.96,United States,2026,2,39,example.com
+TXN10202,CUST-1028,Charlie Anderson,charlie.anderson@example.com,13-03-1990,26-10-2024,Apparel,611.24,India,2024,10,34,example.com
+TXN10438,CUST-1003,Ian Anderson,ian.anderson@example.com,07-05-1996,24-10-2024,Sports & Outdoors,1195.97,United States,2024,10,28,example.com
+TXN10246,CUST-1072,Diana Miller,diana.miller@example.com,18-03-2012,30-09-2024,Electronics,1007.69,United States,2024,9,12,example.com
+TXN10415,CUST-1067,Kevin Rodriguez,kevin.rodriguez@example.com,15-08-1960,10-12-2024,Books,1028.62,Germany,2024,12,64,example.com
+TXN10781,CUST-1085,George Anderson,george.anderson@example.com,11-03-2005,03-03-2025,Home & Kitchen,68.6,United States,2025,3,20,example.com
+TXN10912,CUST-1042,Kevin Davis,kevin.davis@example.com,06-04-2003,25-10-2024,Books,464.67,United States,2024,10,21,example.com
+TXN10773,CUST-1077,Ethan Garcia,ethan.garcia@example.com,24-05-1984,28-02-2025,Books,520.41,United Kingdom,2025,2,41,example.com
+TXN10893,CUST-1023,Fiona Doe,fiona.doe@example.com,20-09-2009,09-08-2025,Books,563.72,Canada,2025,8,16,example.com
+TXN10129,CUST-1042,Ian Brown,ian.brown@example.com,28-06-2002,06-09-2024,Books,66.48,United Kingdom,2024,9,22,example.com
+TXN10637,CUST-1028,Jane Anderson,jane.anderson@example.com,20-03-1960,12-02-2026,Books,925.59,United Kingdom,2026,2,66,example.com
+TXN10402,CUST-1054,Sarah Garcia,sarah.garcia@example.com,27-05-1975,30-01-2025,Home & Kitchen,845.61,United Kingdom,2025,1,50,example.com
+TXN10789,CUST-1006,Kevin Johnson,kevin.johnson@example.com,06-05-2001,16-11-2025,Books,29.51,United Kingdom,2025,11,24,example.com
+TXN10928,CUST-1058,Ian Davis,ian.davis@example.com,16-11-1990,05-11-2026,Apparel,732.2,Australia,2026,11,36,example.com
+TXN10735,CUST-1039,Charlie Martinez,charlie.martinez@example.com,22-02-1962,02-02-2025,Books,306.89,Germany,2025,2,63,example.com
+TXN10919,CUST-1049,Kevin Davis,kevin.davis@example.com,25-11-1959,08-07-2026,Apparel,531.59,United States,2026,7,67,example.com
+TXN10219,CUST-1045,Laura Anderson,laura.anderson@example.com,22-07-1961,13-04-2026,Home & Kitchen,575.56,United Kingdom,2026,4,65,example.com
+TXN10641,CUST-1032,Kevin Anderson,kevin.anderson@example.com,18-02-1955,05-10-2024,Apparel,734.53,United Kingdom,2024,10,69,example.com
+TXN10921,CUST-1051,Michael Doe,michael.doe@example.com,25-01-1950,28-06-2025,Home & Kitchen,452.7,United Kingdom,2025,6,75,example.com
+TXN10757,CUST-1061,Fiona Brown,fiona.brown@example.com,17-02-2014,07-09-2024,Sports & Outdoors,598.26,United States,2024,9,10,example.com
+TXN10883,CUST-1013,Ethan Garcia,ethan.garcia@example.com,08-03-1986,24-10-2025,Home & Kitchen,1017.8,United Kingdom,2025,10,39,example.com
+TXN10925,CUST-1055,Ian Davis,ian.davis@example.com,21-07-1951,30-08-2025,Electronics,1851.07,United Kingdom,2025,8,74,example.com
+TXN10624,CUST-1015,Kevin Anderson,kevin.anderson@example.com,13-07-1998,30-04-2025,Sports & Outdoors,796.67,Germany,2025,4,27,example.com
+TXN10844,CUST-1061,Bob Brown,bob.brown@example.com,05-05-1971,13-01-2026,Apparel,189.3,Canada,2026,1,55,example.com
+TXN10765,CUST-1069,Sarah Martin,sarah.martin@example.com,23-06-2002,13-05-2025,Electronics,1049.23,Unknown,2025,5,23,example.com
+TXN10386,CUST-1038,Ethan Anderson,ethan.anderson@example.com,18-11-1978,04-10-2024,Books,433.4,United Kingdom,2024,10,46,example.com
+TXN10509,CUST-1074,John Miller,john.miller@example.com,09-11-1980,01-08-2024,Electronics,204.46,United States,2024,8,44,example.com
+TXN10267,CUST-1006,Ethan Martin,ethan.martin@example.com,13-03-1990,27-08-2025,Apparel,1161.48,United Kingdom,2025,8,35,example.com
+TXN10825,CUST-1042,John Smith,john.smith@example.com,27-04-1983,11-09-2025,Books,170.11,United States,2025,9,42,example.com
+TXN10441,CUST-1006,Michael Martin,michael.martin@example.com,21-05-1955,03-01-2026,Apparel,1138.11,United States,2026,1,71,example.com
+TXN10496,CUST-1061,Charlie Doe,charlie.doe@example.com,18-08-2004,16-06-2026,Sports & Outdoors,475.49,United States,2026,6,22,example.com
+TXN10112,CUST-1025,Kevin Taylor,kevin.taylor@example.com,08-11-1963,24-03-2025,Electronics,1098.73,United Kingdom,2025,3,62,example.com
+TXN10691,CUST-1082,John Martinez,john.martinez@example.com,18-11-2003,06-03-2026,Books,507.06,United States,2026,3,23,example.com
+TXN10232,CUST-1058,Jane Hernandez,jane.hernandez@example.com,07-04-1952,05-12-2026,Electronics,538.5,United States,2026,12,74,example.com
+TXN10956,CUST-1086,Ian Rodriguez,ian.rodriguez@example.com,13-11-1996,27-06-2025,Sports & Outdoors,1170.49,United Kingdom,2025,6,29,example.com
+TXN10607,CUST-1085,George Anderson,george.anderson@example.com,04-11-2006,13-10-2025,Home & Kitchen,332,United States,2025,10,19,example.com
+TXN10671,CUST-1062,Diana Davis,diana.davis@example.com,17-08-1953,23-03-2026,Electronics,867.08,Australia,2026,3,73,example.com
+TXN10373,CUST-1025,Ian Wilson,ian.wilson@example.com,21-10-2003,19-04-2026,Home & Kitchen,257.61,Canada,2026,4,23,example.com
+TXN10989,CUST-1032,Michael Johnson,michael.johnson@example.com,14-11-1982,07-08-2024,Home & Kitchen,89.32,United Kingdom,2024,8,42,example.com
+TXN10848,CUST-1065,Laura Johnson,laura.johnson@example.com,14-01-2011,10-09-2024,Home & Kitchen,326.65,Australia,2024,9,13,example.com
+TXN10233,CUST-1059,Fiona Doe,fiona.doe@example.com,08-08-2001,13-01-2025,Home & Kitchen,172.46,United Kingdom,2025,1,24,example.com
+TXN10790,CUST-1007,Diana Thomas,diana.thomas@example.com,21-05-2001,18-09-2024,Home & Kitchen,361.76,Canada,2024,9,23,example.com
+TXN10676,CUST-1067,Michael Moore,michael.moore@example.com,25-03-2003,02-08-2025,Home & Kitchen,726.34,Australia,2025,8,22,example.com
+TXN10317,CUST-1056,Bob Smith,bob.smith@example.com,09-07-1992,29-01-2025,Electronics,856.23,Australia,2025,1,33,example.com
+TXN10648,CUST-1039,Jane Thomas,jane.thomas@example.com,02-06-1999,28-10-2025,Apparel,531.49,Germany,2025,10,26,example.com
+TXN10410,CUST-1062,Diana Thomas,diana.thomas@example.com,10-01-1995,18-08-2024,Home & Kitchen,1104.88,United States,2024,8,29,example.com
+TXN10904,CUST-1034,Kevin Johnson,kevin.johnson@example.com,16-04-1999,30-03-2026,Apparel,768.61,United Kingdom,2026,3,27,example.com
+TXN10709,CUST-1013,Bob Martinez,bob.martinez@example.com,16-03-2003,14-08-2024,Home & Kitchen,147.63,United Kingdom,2024,8,21,example.com
+TXN10358,CUST-1010,Ethan Garcia,ethan.garcia@example.com,18-12-2002,12-01-2025,Apparel,360.39,United States,2025,1,23,example.com
+TXN10258,CUST-1084,John Wilson,john.wilson@example.com,08-08-2007,20-07-2025,Sports & Outdoors,521.06,Australia,2025,7,18,example.com
+TXN10744,CUST-1048,John Anderson,john.anderson@example.com,13-10-1998,23-08-2025,Sports & Outdoors,970.95,United States,2025,8,27,example.com
+TXN10627,CUST-1018,Alice Miller,alice.miller@example.com,26-08-2003,06-08-2024,Sports & Outdoors,749.78,Germany,2024,8,21,example.com
+TXN10632,CUST-1023,John Martin,john.martin@example.com,16-09-2008,12-09-2024,Apparel,426.73,United Kingdom,2024,9,16,example.com
+TXN10282,CUST-1021,Alice Miller,alice.miller@example.com,08-02-1990,10-09-2025,Electronics,451.1,United States,2025,9,35,example.com
+TXN10376,CUST-1028,Julia Garcia,julia.garcia@example.com,27-06-1985,31-03-2025,Sports & Outdoors,764.31,United States,2025,3,40,example.com
+TXN10384,CUST-1036,Ethan Miller,ethan.miller@example.com,26-01-1980,11-12-2024,Books,386.9,United States,2024,12,44,example.com
+TXN10224,CUST-1050,Alice Moore,alice.moore@example.com,19-02-1996,27-03-2026,Electronics,689.38,United States,2026,3,30,example.com
+TXN10961,CUST-1004,Charlie Doe,charlie.doe@example.com,26-08-1966,21-04-2026,Apparel,205.82,Germany,2026,4,60,example.com
+TXN10820,CUST-1037,Diana Hernandez,diana.hernandez@example.com,25-07-1957,12-06-2026,Home & Kitchen,1173.39,India,2026,6,69,example.com
+TXN10472,CUST-1037,Fiona Thomas,fiona.thomas@example.com,04-03-1999,07-03-2026,Home & Kitchen,992.68,Australia,2026,3,27,example.com
+TXN10347,CUST-1086,Diana Anderson,diana.anderson@example.com,05-01-1957,26-11-2024,Home & Kitchen,1016.54,United Kingdom,2024,11,67,example.com
+TXN10505,CUST-1070,Ethan Davis,ethan.davis@example.com,11-06-1986,29-08-2024,Sports & Outdoors,930.82,Germany,2024,8,38,example.com
+TXN10639,CUST-1030,Jane Davis,jane.davis@example.com,16-07-2009,14-09-2025,Books,1138.16,India,2025,9,16,example.com
+TXN10995,CUST-1038,Diana Taylor,diana.taylor@example.com,19-08-2001,11-03-2026,Apparel,825.56,United States,2026,3,25,example.com
+TXN10797,CUST-1014,John Brown,john.brown@example.com,26-03-2009,14-01-2026,Books,104.53,United Kingdom,2026,1,17,example.com
+TXN10934,CUST-1064,Fiona Thomas,fiona.thomas@example.com,15-03-1991,13-10-2024,Electronics,1044.49,United States,2024,10,33,example.com
+TXN10911,CUST-1041,Michael Moore,michael.moore@example.com,03-12-1955,28-09-2025,Books,841.88,United Kingdom,2025,9,70,example.com
+TXN10619,CUST-1010,Kevin Anderson,kevin.anderson@example.com,22-11-2013,18-05-2026,Electronics,981.36,Australia,2026,5,13,example.com
+TXN10861,CUST-1078,Diana Johnson,diana.johnson@example.com,03-12-1966,11-03-2026,Apparel,1057.8,United Kingdom,2026,3,60,example.com
+TXN10809,CUST-1026,Sarah Davis,sarah.davis@example.com,23-05-1976,22-04-2026,Books,212.08,United States,2026,4,50,example.com
+TXN10645,CUST-1036,Alice Doe,alice.doe@example.com,21-10-1977,17-03-2026,Electronics,1285.38,United States,2026,3,49,example.com
+TXN10852,CUST-1069,George Wilson,george.wilson@example.com,27-06-1998,10-10-2024,Home & Kitchen,59.35,India,2024,10,26,example.com
+TXN10556,CUST-1034,Ian Johnson,ian.johnson@example.com,14-11-1964,12-05-2025,Apparel,232.64,United Kingdom,2025,5,61,example.com
+TXN10965,CUST-1008,Laura Rodriguez,laura.rodriguez@example.com,04-05-1978,25-09-2025,Electronics,111.52,Australia,2025,9,47,example.com
+TXN10577,CUST-1055,Jane Brown,jane.brown@example.com,27-08-2007,06-06-2026,Home & Kitchen,1180.68,United States,2026,6,19,example.com
+TXN10795,CUST-1012,Fiona Hernandez,fiona.hernandez@example.com,02-10-1987,01-01-2025,Electronics,772.55,India,2025,1,38,example.com
+TXN10085,CUST-1085,John Wilson,john.wilson@example.com,16-03-1955,03-02-2025,Books,221.88,Unknown,2025,2,70,example.com
+TXN10242,CUST-1068,Julia Martinez,julia.martinez@example.com,17-06-1983,25-02-2025,Books,964.37,Germany,2025,2,42,example.com
+TXN10698,CUST-1002,Sarah Miller,sarah.miller@example.com,05-06-2008,15-07-2026,Sports & Outdoors,778.46,United Kingdom,2026,7,18,example.com
+TXN10159,CUST-1072,Fiona Rodriguez,fiona.rodriguez@example.com,27-08-1989,02-01-2026,Apparel,556.71,United Kingdom,2026,1,37,example.com
+TXN10524,CUST-1002,Kevin Smith,kevin.smith@example.com,08-12-1965,20-06-2025,Books,886.45,United States,2025,6,60,example.com
+TXN10035,CUST-1035,Charlie Hernandez,charlie.hernandez@example.com,10-01-1966,11-07-2025,Electronics,256.04,United Kingdom,2025,7,59,example.com
+TXN10170,CUST-1083,Ian Miller,ian.miller@example.com,18-06-1955,07-08-2025,Home & Kitchen,1177.08,Unknown,2025,8,70,example.com
+TXN10654,CUST-1045,Alice Moore,alice.moore@example.com,07-11-1987,20-01-2026,Sports & Outdoors,1161.18,United Kingdom,2026,1,39,example.com
+TXN10896,CUST-1026,Bob Johnson,bob.johnson@example.com,18-01-1996,26-12-2025,Apparel,811.75,United Kingdom,2025,12,29,example.com
+TXN10863,CUST-1080,Ian Hernandez,ian.hernandez@example.com,04-05-2002,22-08-2024,Sports & Outdoors,597.21,India,2024,8,22,example.com
+TXN10853,CUST-1070,Alice Martinez,alice.martinez@example.com,23-07-1961,16-03-2026,Home & Kitchen,1054.54,United Kingdom,2026,3,65,example.com
+TXN10733,CUST-1037,Sarah Wilson,sarah.wilson@example.com,04-08-1968,16-03-2026,Apparel,599.24,United States,2026,3,58,example.com
+TXN10563,CUST-1041,Bob Smith,bob.smith@example.com,13-11-1987,25-11-2025,Books,1172.05,United States,2025,11,38,example.com
+TXN10742,CUST-1046,Fiona Rodriguez,fiona.rodriguez@example.com,03-10-1989,14-08-2024,Electronics,141.79,United States,2024,8,35,example.com
+TXN10574,CUST-1052,Diana Thomas,diana.thomas@example.com,05-08-2012,02-02-2026,Home & Kitchen,43.51,United States,2026,2,14,example.com
+TXN10690,CUST-1081,Diana Martinez,diana.martinez@example.com,02-06-1959,10-10-2025,Electronics,747.01,United Kingdom,2025,10,66,example.com
+TXN10460,CUST-1025,Kevin Taylor,kevin.taylor@example.com,22-01-2014,17-11-2025,Sports & Outdoors,909.86,United States,2025,11,11,example.com
+TXN10553,CUST-1031,Fiona Hernandez,fiona.hernandez@example.com,05-07-1987,06-03-2026,Apparel,573.65,United States,2026,3,39,example.com
+TXN10884,CUST-1014,Diana Garcia,diana.garcia@example.com,27-03-1952,24-10-2025,Electronics,998.58,United States,2025,10,73,example.com
+TXN10206,CUST-1032,Laura Miller,laura.miller@example.com,07-12-2002,25-05-2025,Sports & Outdoors,1048.02,United States,2025,5,23,example.com
+TXN10392,CUST-1044,Ian Doe,ian.doe@example.com,09-08-1950,17-12-2025,Home & Kitchen,590.04,United States,2025,12,75,example.com
+TXN10794,CUST-1011,Alice Martinez,alice.martinez@example.com,03-07-2009,17-03-2025,Apparel,1181.1,United Kingdom,2025,3,16,example.com
+TXN10397,CUST-1049,Ian Martin,ian.martin@example.com,06-04-1995,01-06-2025,Electronics,273.06,United States,2025,6,30,example.com
+TXN10766,CUST-1070,Alice Taylor,alice.taylor@example.com,24-10-2003,05-01-2025,Apparel,835.78,United States,2025,1,22,example.com
+TXN10854,CUST-1071,Ian Anderson,ian.anderson@example.com,15-12-1983,13-10-2025,Home & Kitchen,413.25,Germany,2025,10,42,example.com
+TXN10217,CUST-1043,Sarah Miller,sarah.miller@example.com,09-08-2014,03-01-2026,Electronics,199.18,Germany,2026,1,12,example.com
+TXN10004,CUST-1004,Michael Brown,michael.brown@example.com,18-02-1998,22-09-2025,Sports & Outdoors,694.94,United States,2025,9,27,example.com
+TXN10768,CUST-1072,Diana Rodriguez,diana.rodriguez@example.com,22-10-1966,25-05-2025,Apparel,576.65,United States,2025,5,59,example.com
+TXN10642,CUST-1033,Ian Wilson,ian.wilson@example.com,09-02-1984,17-09-2024,Sports & Outdoors,556.02,United Kingdom,2024,9,40,example.com
+TXN10903,CUST-1033,Jane Miller,jane.miller@example.com,19-06-1969,13-10-2024,Sports & Outdoors,1176.31,United Kingdom,2024,10,55,example.com
+TXN10612,CUST-1003,Michael Martin,michael.martin@example.com,05-04-1979,26-10-2024,Apparel,473.53,United Kingdom,2024,10,45,example.com
+TXN10738,CUST-1042,Diana Martin,diana.martin@example.com,10-03-2005,16-06-2025,Books,684.78,Germany,2025,6,20,example.com
+TXN10546,CUST-1024,Charlie Martinez,charlie.martinez@example.com,08-05-1950,12-12-2025,Apparel,926.97,United Kingdom,2025,12,75,example.com
+TXN10725,CUST-1029,Sarah Taylor,sarah.taylor@example.com,22-08-1973,01-04-2026,Home & Kitchen,4925.2,Canada,2026,4,53,example.com
+TXN10683,CUST-1074,Michael Smith,michael.smith@example.com,23-07-1959,13-08-2025,Sports & Outdoors,359.43,United Kingdom,2025,8,66,example.com
+TXN10098,CUST-1011,Ian Thomas,ian.thomas@example.com,28-06-1960,28-08-2024,Sports & Outdoors,1145.2,Germany,2024,8,64,example.com
+TXN10804,CUST-1021,Kevin Doe,kevin.doe@example.com,04-01-1992,12-10-2024,Books,1019.1,Australia,2024,10,32,example.com
+TXN10727,CUST-1031,Sarah Taylor,sarah.taylor@example.com,24-09-1986,08-06-2026,Electronics,594.99,Canada,2026,6,40,example.com
+TXN10573,CUST-1051,John Taylor,john.taylor@example.com,25-12-1960,18-03-2025,Home & Kitchen,855.86,United Kingdom,2025,3,65,example.com
+TXN10406,CUST-1058,Ian Hernandez,ian.hernandez@example.com,28-02-1964,03-06-2026,Electronics,797.71,United States,2026,6,62,example.com
+TXN10502,CUST-1067,Charlie Anderson,charlie.anderson@example.com,09-05-2012,21-12-2024,Sports & Outdoors,481.09,United States,2024,12,12,example.com
+TXN10047,CUST-1047,Hannah Rodriguez,hannah.rodriguez@example.com,01-03-1975,02-06-2026,Home & Kitchen,735.47,United States,2026,6,51,example.com
+TXN10032,CUST-1032,Charlie Wilson,charlie.wilson@example.com,07-10-1986,08-02-2025,Home & Kitchen,608.96,United Kingdom,2025,2,39,example.com
+TXN10779,CUST-1083,Diana Martin,diana.martin@example.com,05-08-1993,19-04-2026,Apparel,174.45,United States,2026,4,33,example.com
+TXN10839,CUST-1056,Ian Doe,ian.doe@example.com,09-12-2006,26-09-2024,Electronics,850.11,Australia,2024,9,18,example.com
+TXN10134,CUST-1047,Kevin Hernandez,kevin.hernandez@example.com,06-06-2008,06-07-2025,Apparel,933.32,Australia,2025,7,17,example.com
+TXN10027,CUST-1027,Alice Rodriguez,alice.rodriguez@example.com,19-02-2001,09-11-2025,Sports & Outdoors,745.16,Canada,2025,11,24,example.com
+TXN10886,CUST-1016,Laura Johnson,laura.johnson@example.com,05-03-1965,06-01-2026,Home & Kitchen,834.75,United Kingdom,2026,1,61,example.com
+TXN10230,CUST-1056,Bob Davis,bob.davis@example.com,09-05-2000,03-12-2025,Electronics,1174.3,Germany,2025,12,25,example.com
+TXN10489,CUST-1054,Sarah Rodriguez,sarah.rodriguez@example.com,22-08-1993,04-04-2025,Sports & Outdoors,580.95,United Kingdom,2025,4,32,example.com
+TXN10772,CUST-1076,Diana Brown,diana.brown@example.com,17-12-1951,30-04-2025,Books,595.51,United Kingdom,2025,4,74,example.com
+TXN10378,CUST-1030,Julia Davis,julia.davis@example.com,27-12-1983,13-08-2024,Electronics,37.8,United States,2024,8,41,example.com
+TXN10288,CUST-1027,Bob Brown,bob.brown@example.com,27-09-1984,07-09-2025,Sports & Outdoors,913.2,Germany,2025,9,41,example.com
+TXN10418,CUST-1070,Fiona Moore,fiona.moore@example.com,25-09-1992,23-10-2024,Sports & Outdoors,861.41,United Kingdom,2024,10,32,example.com
+TXN10674,CUST-1065,Charlie Garcia,charlie.garcia@example.com,13-03-2008,02-07-2025,Home & Kitchen,865.19,United Kingdom,2025,7,17,example.com
+TXN10391,CUST-1043,Michael Miller,michael.miller@example.com,06-12-1990,28-04-2026,Books,759.08,United States,2026,4,36,example.com
+TXN10592,CUST-1070,Ethan Garcia,ethan.garcia@example.com,19-02-1957,13-10-2024,Sports & Outdoors,582.98,Australia,2024,10,67,example.com
+TXN10498,CUST-1063,Ian Taylor,ian.taylor@example.com,18-03-1983,23-10-2025,Home & Kitchen,568.26,Australia,2025,10,42,example.com
+TXN10138,CUST-1051,Charlie Wilson,charlie.wilson@example.com,04-06-1987,12-07-2026,Books,519.63,United States,2026,7,39,example.com
+TXN10062,CUST-1062,Julia Davis,julia.davis@example.com,10-03-1964,31-03-2026,Sports & Outdoors,1115.02,Australia,2026,3,62,example.com
+TXN10471,CUST-1036,Charlie Davis,charlie.davis@example.com,06-05-2015,16-08-2024,Apparel,717.86,United States,2024,8,9,example.com
+TXN10647,CUST-1038,Michael Wilson,michael.wilson@example.com,22-12-2004,22-08-2025,Apparel,937.97,United Kingdom,2025,8,21,example.com
+TXN10128,CUST-1041,Alice Hernandez,alice.hernandez@example.com,24-12-1962,07-03-2025,Home & Kitchen,705.83,India,2025,3,63,example.com
+TXN10984,CUST-1027,Ethan Davis,ethan.davis@example.com,09-09-1961,14-06-2026,Electronics,609.85,United Kingdom,2026,6,65,example.com
+TXN10520,CUST-1085,Michael Wilson,michael.wilson@example.com,04-11-2012,30-06-2026,Home & Kitchen,1163.81,United States,2026,6,14,example.com
+TXN10838,CUST-1055,Michael Moore,michael.moore@example.com,11-12-1969,19-04-2026,Sports & Outdoors,467.75,Canada,2026,4,57,example.com
+TXN10970,CUST-1013,Sarah Garcia,sarah.garcia@example.com,23-05-2013,29-06-2025,Electronics,187.48,United Kingdom,2025,6,12,example.com
+TXN10064,CUST-1064,Bob Doe,bob.doe@example.com,14-09-1994,09-10-2024,Apparel,609.62,United Kingdom,2024,10,30,example.com
+TXN10812,CUST-1029,Fiona Brown,fiona.brown@example.com,09-08-1978,05-08-2025,Apparel,925.26,India,2025,8,47,example.com
+TXN10014,CUST-1014,John Anderson,john.anderson@example.com,04-01-2012,13-07-2025,Apparel,74.22,Australia,2025,7,13,example.com
+TXN10156,CUST-1069,Sarah Garcia,sarah.garcia@example.com,05-03-1978,01-05-2026,Apparel,611.69,India,2026,5,48,example.com
+TXN10040,CUST-1040,Kevin Anderson,kevin.anderson@example.com,02-09-1953,18-01-2026,Sports & Outdoors,50.72,Australia,2026,1,73,example.com
+TXN10492,CUST-1057,Sarah Anderson,sarah.anderson@example.com,19-04-1995,17-10-2025,Home & Kitchen,601.3,United Kingdom,2025,10,30,example.com
+TXN10379,CUST-1031,Diana Garcia,diana.garcia@example.com,08-11-1978,25-08-2024,Home & Kitchen,783.65,India,2024,8,46,example.com
+TXN10187,CUST-1013,Diana Miller,diana.miller@example.com,28-09-2005,24-05-2026,Electronics,368.43,United States,2026,5,21,example.com
+TXN10763,CUST-1067,Fiona Moore,fiona.moore@example.com,13-01-1999,31-10-2025,Apparel,1123.91,United Kingdom,2025,10,26,example.com
+TXN10216,CUST-1042,Hannah Doe,hannah.doe@example.com,19-05-1951,11-09-2024,Electronics,345.05,India,2024,9,73,example.com
+TXN10791,CUST-1008,Hannah Miller,hannah.miller@example.com,04-11-1995,08-07-2025,Sports & Outdoors,590.1,Canada,2025,7,30,example.com
+TXN10052,CUST-1052,Sarah Rodriguez,sarah.rodriguez@example.com,03-08-1985,19-07-2024,Apparel,329.7,United Kingdom,2024,7,39,example.com
+TXN10878,CUST-1008,Ethan Johnson,ethan.johnson@example.com,22-04-1993,19-03-2025,Books,832.43,Australia,2025,3,32,example.com
+TXN10337,CUST-1076,Jane Davis,jane.davis@example.com,13-12-2005,26-02-2025,Electronics,821.44,United States,2025,2,20,example.com
+TXN10748,CUST-1052,Alice Martin,alice.martin@example.com,12-04-2004,02-05-2026,Apparel,522.33,India,2026,5,22,example.com
+TXN10719,CUST-1023,Fiona Martinez,fiona.martinez@example.com,05-04-1966,30-04-2026,Books,916.81,United States,2026,4,60,example.com
+TXN10724,CUST-1028,John Garcia,john.garcia@example.com,06-05-1974,15-01-2025,Electronics,1109.46,India,2025,1,51,example.com
+TXN10295,CUST-1034,Alice Thomas,alice.thomas@example.com,09-12-2015,07-08-2024,Apparel,1140.55,United Kingdom,2024,8,9,example.com
+TXN10701,CUST-1005,Jane Garcia,jane.garcia@example.com,07-05-1978,26-06-2026,Electronics,814.09,United States,2026,6,48,example.com
+TXN10251,CUST-1077,George Thomas,george.thomas@example.com,13-06-1960,05-04-2025,Sports & Outdoors,1188.33,United Kingdom,2025,4,65,example.com
+TXN10726,CUST-1030,Ethan Rodriguez,ethan.rodriguez@example.com,25-02-2002,01-09-2025,Electronics,136.83,United States,2025,9,23,example.com
+TXN10461,CUST-1026,Michael Davis,michael.davis@example.com,19-10-1972,12-09-2024,Home & Kitchen,1127.31,United States,2024,9,52,example.com
+TXN10455,CUST-1020,Ian Hernandez,ian.hernandez@example.com,11-01-1971,09-11-2025,Home & Kitchen,335.63,United Kingdom,2025,11,54,example.com
+TXN10815,CUST-1032,Hannah Moore,hannah.moore@example.com,24-08-2014,09-04-2026,Home & Kitchen,404.86,United States,2026,4,12,example.com
+TXN10862,CUST-1079,Ethan Smith,ethan.smith@example.com,18-11-1982,11-04-2025,Electronics,770.95,United States,2025,4,43,example.com
+TXN10269,CUST-1008,Diana Smith,diana.smith@example.com,07-12-2009,27-04-2025,Apparel,983.66,Canada,2025,4,16,example.com
+TXN10201,CUST-1027,Kevin Doe,kevin.doe@example.com,05-01-1955,19-07-2024,Apparel,625.6,United States,2024,7,69,example.com
+TXN10161,CUST-1074,Julia Brown,julia.brown@example.com,03-05-1965,05-02-2026,Apparel,1086.84,United States,2026,2,61,example.com
+TXN10555,CUST-1033,Sarah Thomas,sarah.thomas@example.com,20-09-1975,29-01-2025,Home & Kitchen,112.11,Canada,2025,1,50,example.com
+TXN10729,CUST-1033,Ethan Johnson,ethan.johnson@example.com,12-11-2010,17-01-2026,Electronics,808.15,Canada,2026,1,16,example.com
+TXN10401,CUST-1053,George Miller,george.miller@example.com,17-02-2003,25-10-2024,Electronics,141.25,United States,2024,10,21,example.com
+TXN10702,CUST-1006,Kevin Garcia,kevin.garcia@example.com,20-06-2012,07-11-2024,Sports & Outdoors,1090.59,United Kingdom,2024,11,12,example.com
+TXN10476,CUST-1041,Hannah Hernandez,hannah.hernandez@example.com,01-04-1982,23-07-2024,Electronics,626.12,Canada,2024,7,42,example.com
+TXN10821,CUST-1038,Hannah Hernandez,hannah.hernandez@example.com,23-11-2001,30-12-2024,Apparel,1091.53,United States,2024,12,23,example.com
+TXN10771,CUST-1075,George Davis,george.davis@example.com,20-07-1956,06-05-2025,Sports & Outdoors,183.36,United Kingdom,2025,5,69,example.com
+TXN10105,CUST-1018,Hannah Garcia,hannah.garcia@example.com,04-08-1999,19-11-2025,Books,541.64,United Kingdom,2025,11,26,example.com
+TXN10565,CUST-1043,Jane Rodriguez,jane.rodriguez@example.com,16-06-1989,12-06-2025,Home & Kitchen,419.4,United Kingdom,2025,6,36,example.com
+TXN10389,CUST-1041,Hannah Moore,hannah.moore@example.com,02-08-1965,08-10-2024,Sports & Outdoors,569.3,United Kingdom,2024,10,59,example.com
+TXN10001,CUST-1001,Laura Doe,laura.doe@example.com,07-02-1953,23-11-2025,Sports & Outdoors,675.69,India,2025,11,72,example.com
+TXN10943,CUST-1073,Alice Hernandez,alice.hernandez@example.com,13-02-1954,17-12-2024,Home & Kitchen,916.73,United Kingdom,2024,12,70,example.com
+TXN10561,CUST-1039,John Thomas,john.thomas@example.com,06-05-1955,19-05-2026,Apparel,948.08,Australia,2026,5,71,example.com
+TXN10205,CUST-1031,Kevin Miller,kevin.miller@example.com,19-01-1981,01-08-2024,Electronics,27.63,United Kingdom,2024,8,43,example.com
+TXN10034,CUST-1034,Diana Moore,diana.moore@example.com,01-09-2004,27-03-2026,Electronics,656.98,United Kingdom,2026,3,22,example.com
+TXN10775,CUST-1079,Fiona Moore,fiona.moore@example.com,19-06-1981,18-08-2024,Books,1041.28,United States,2024,8,43,example.com
+TXN10508,CUST-1073,Kevin Wilson,kevin.wilson@example.com,24-06-2006,25-11-2024,Sports & Outdoors,499.72,United States,2024,11,18,example.com
+TXN10427,CUST-1079,Ian Brown,ian.brown@example.com,16-09-1995,30-11-2024,Sports & Outdoors,810.72,India,2024,11,29,example.com
+TXN10454,CUST-1019,Ian Martin,ian.martin@example.com,20-06-2007,12-09-2024,Apparel,680.83,United Kingdom,2024,9,17,example.com
+TXN10366,CUST-1018,Diana Davis,diana.davis@example.com,05-04-1977,06-06-2026,Books,1185.99,Canada,2026,6,49,example.com
+TXN10091,CUST-1004,Laura Johnson,laura.johnson@example.com,15-02-1978,21-03-2026,Home & Kitchen,1119.52,United Kingdom,2026,3,48,example.com
+TXN10339,CUST-1078,Fiona Martinez,fiona.martinez@example.com,18-07-2013,16-03-2025,Electronics,339.33,United States,2025,3,12,example.com
+TXN10897,CUST-1027,Hannah Wilson,hannah.wilson@example.com,20-12-1974,28-02-2026,Sports & Outdoors,15.2,United Kingdom,2026,2,52,example.com
+TXN10564,CUST-1042,Ian Martin,ian.martin@example.com,07-03-1961,22-02-2025,Books,1111.99,United States,2025,2,64,example.com
+TXN10345,CUST-1084,Julia Miller,julia.miller@example.com,18-08-1974,06-09-2025,Home & Kitchen,61.76,United States,2025,9,51,example.com
+TXN10776,CUST-1080,Ian Thomas,ian.thomas@example.com,13-12-1977,24-07-2024,Books,718.65,United States,2024,7,47,example.com
+TXN10241,CUST-1067,Sarah Rodriguez,sarah.rodriguez@example.com,08-07-1976,31-12-2024,Apparel,459.89,India,2024,12,48,example.com
+TXN10013,CUST-1013,George Davis,george.davis@example.com,28-02-2014,17-10-2024,Apparel,187.64,United States,2024,10,10,example.com
+TXN10315,CUST-1054,Bob Moore,bob.moore@example.com,22-05-1957,14-09-2024,Home & Kitchen,23.93,United States,2024,9,67,example.com
+TXN10387,CUST-1039,Diana Davis,diana.davis@example.com,16-02-1987,10-03-2026,Apparel,1136.57,United Kingdom,2026,3,39,example.com
+TXN10273,CUST-1012,Ian Hernandez,ian.hernandez@example.com,04-01-1963,28-10-2025,Home & Kitchen,537.71,Canada,2025,10,62,example.com
+TXN10166,CUST-1079,Fiona Martinez,fiona.martinez@example.com,08-01-1965,16-05-2025,Sports & Outdoors,80.05,Germany,2025,5,60,example.com
+TXN10646,CUST-1037,Kevin Davis,kevin.davis@example.com,06-12-1964,02-11-2025,Apparel,794.27,United States,2025,11,61,example.com
+TXN10818,CUST-1035,Laura Rodriguez,laura.rodriguez@example.com,14-07-1967,26-05-2025,Books,954.56,United Kingdom,2025,5,58,example.com
+TXN10484,CUST-1049,Hannah Garcia,hannah.garcia@example.com,17-10-1954,06-02-2025,Home & Kitchen,810.46,United Kingdom,2025,2,71,example.com
+TXN10988,CUST-1031,Charlie Hernandez,charlie.hernandez@example.com,09-09-1959,26-10-2025,Books,1084.87,Canada,2025,10,66,example.com
+TXN10504,CUST-1069,Julia Taylor,julia.taylor@example.com,01-06-1982,24-05-2025,Electronics,1041.51,Australia,2025,5,43,example.com
+TXN10831,CUST-1048,Kevin Wilson,kevin.wilson@example.com,14-11-2013,25-04-2025,Books,1168.06,United States,2025,4,12,example.com
+TXN10243,CUST-1069,Ian Garcia,ian.garcia@example.com,14-06-1997,03-06-2026,Sports & Outdoors,890.8,United States,2026,6,29,example.com
+TXN10566,CUST-1044,Julia Martinez,julia.martinez@example.com,09-09-1980,17-05-2026,Apparel,1069.03,United States,2026,5,46,example.com
+TXN10875,CUST-1005,Jane Miller,jane.miller@example.com,14-10-1989,09-02-2025,Apparel,3334.66,India,2025,2,36,example.com
+TXN10562,CUST-1040,George Doe,george.doe@example.com,01-11-2009,12-05-2026,Books,329.22,United Kingdom,2026,5,17,example.com
+TXN10686,CUST-1077,Charlie Anderson,charlie.anderson@example.com,04-09-1980,23-09-2024,Books,1127.28,Australia,2024,9,44,example.com
+TXN10957,CUST-1000,Bob Smith,bob.smith@example.com,13-12-2008,27-02-2026,Electronics,1043.46,United Kingdom,2026,2,18,example.com
+TXN10189,CUST-1015,George Miller,george.miller@example.com,18-10-1988,15-04-2026,Sports & Outdoors,712.21,Australia,2026,4,38,example.com
+TXN10782,CUST-1086,Jane Rodriguez,jane.rodriguez@example.com,16-01-1973,26-10-2025,Home & Kitchen,526.53,Germany,2025,10,52,example.com
+TXN10699,CUST-1003,Sarah Martinez,sarah.martinez@example.com,24-10-1968,23-04-2025,Apparel,879.31,United States,2025,4,57,example.com
+TXN10681,CUST-1072,Laura Garcia,laura.garcia@example.com,10-06-1966,17-11-2025,Electronics,578.34,United Kingdom,2025,11,59,example.com
+TXN10510,CUST-1075,Bob Johnson,bob.johnson@example.com,09-02-2010,23-06-2026,Books,1148.67,Unknown,2026,6,16,example.com
+TXN10058,CUST-1058,Alice Hernandez,alice.hernandez@example.com,06-08-1967,29-05-2026,Apparel,396.19,Germany,2026,5,59,example.com
+TXN10474,CUST-1039,John Hernandez,john.hernandez@example.com,28-06-2003,05-06-2026,Sports & Outdoors,279.24,Germany,2026,6,23,example.com
+TXN10856,CUST-1073,Diana Hernandez,diana.hernandez@example.com,18-07-2012,27-04-2026,Electronics,1071.62,Germany,2026,4,14,example.com
+TXN10747,CUST-1051,Hannah Thomas,hannah.thomas@example.com,24-10-1978,16-04-2026,Sports & Outdoors,712.28,United Kingdom,2026,4,48,example.com
+TXN10252,CUST-1078,Hannah Johnson,hannah.johnson@example.com,13-02-1954,26-06-2025,Books,573.83,United States,2025,6,71,example.com
+TXN10021,CUST-1021,Michael Doe,michael.doe@example.com,13-01-1962,06-08-2025,Electronics,233.95,India,2025,8,63,example.com
+TXN10313,CUST-1052,Charlie Wilson,charlie.wilson@example.com,03-05-1960,11-02-2025,Home & Kitchen,645.99,Canada,2025,2,65,example.com
+TXN10459,CUST-1024,Julia Thomas,julia.thomas@example.com,24-10-1978,25-09-2025,Home & Kitchen,603.84,United States,2025,9,47,example.com
+TXN10276,CUST-1015,Michael Moore,michael.moore@example.com,10-02-1990,04-06-2026,Electronics,1019.77,United States,2026,6,36,example.com
+TXN10955,CUST-1085,Kevin Wilson,kevin.wilson@example.com,25-08-2012,08-08-2025,Sports & Outdoors,407.18,United Kingdom,2025,8,13,example.com
+TXN10191,CUST-1017,George Garcia,george.garcia@example.com,21-10-2003,18-06-2026,Books,656.97,United Kingdom,2026,6,23,example.com
+TXN10385,CUST-1037,John Martin,john.martin@example.com,14-05-1987,31-05-2025,Books,47.21,Australia,2025,5,38,example.com
+TXN10805,CUST-1022,Hannah Doe,hannah.doe@example.com,16-07-2012,09-02-2025,Sports & Outdoors,282.13,United States,2025,2,13,example.com
+TXN10413,CUST-1065,Charlie Doe,charlie.doe@example.com,06-11-1951,17-02-2025,Books,1043.95,United States,2025,2,74,example.com
+TXN10491,CUST-1056,John Wilson,john.wilson@example.com,03-05-1981,06-06-2025,Apparel,667.69,United States,2025,6,44,example.com
+TXN10343,CUST-1082,Diana Brown,diana.brown@example.com,08-11-1981,20-10-2025,Sports & Outdoors,918.04,United Kingdom,2025,10,44,example.com
+TXN10769,CUST-1073,George Davis,george.davis@example.com,07-05-1991,24-04-2026,Books,222.36,Canada,2026,4,35,example.com
+TXN10308,CUST-1047,Hannah Garcia,hannah.garcia@example.com,24-04-2015,13-06-2025,Apparel,941.64,United Kingdom,2025,6,10,example.com
+TXN10661,CUST-1052,Michael Davis,michael.davis@example.com,04-02-1958,25-02-2025,Sports & Outdoors,80.42,United Kingdom,2025,2,67,example.com
+TXN10130,CUST-1043,Hannah Taylor,hannah.taylor@example.com,17-10-1963,14-12-2025,Home & Kitchen,272.97,United States,2025,12,62,example.com
+TXN10663,CUST-1054,Jane Davis,jane.davis@example.com,04-02-1992,12-10-2025,Home & Kitchen,205.82,United Kingdom,2025,10,33,example.com
+TXN10871,CUST-1001,Bob Hernandez,bob.hernandez@example.com,26-10-1979,12-09-2024,Sports & Outdoors,546.83,Germany,2024,9,45,example.com
+TXN10099,CUST-1012,Jane Johnson,jane.johnson@example.com,22-11-1980,28-09-2025,Home & Kitchen,523.6,United States,2025,9,45,example.com
+TXN10372,CUST-1024,Ian Martinez,ian.martinez@example.com,27-05-1989,03-03-2025,Electronics,165.59,Germany,2025,3,36,example.com
+TXN10087,CUST-1000,Ian Hernandez,ian.hernandez@example.com,22-05-2013,04-06-2025,Sports & Outdoors,548.52,United Kingdom,2025,6,12,example.com
+TXN10458,CUST-1023,John Thomas,john.thomas@example.com,18-01-1977,26-10-2025,Sports & Outdoors,786.42,United States,2025,10,48,example.com
+TXN10214,CUST-1040,Laura Martin,laura.martin@example.com,07-11-2011,28-09-2025,Apparel,776.85,United States,2025,9,14,example.com
+TXN10466,CUST-1031,Michael Davis,michael.davis@example.com,17-02-1979,29-09-2024,Apparel,184.54,United States,2024,9,45,example.com
+TXN10121,CUST-1034,Ian Smith,ian.smith@example.com,02-05-1972,12-03-2026,Books,140.81,United States,2026,3,54,example.com
+TXN10614,CUST-1005,Hannah Taylor,hannah.taylor@example.com,04-09-1966,30-05-2025,Electronics,669.6,United States,2025,5,59,example.com
+TXN10020,CUST-1020,Sarah Rodriguez,sarah.rodriguez@example.com,07-07-2010,14-04-2026,Electronics,428.39,Canada,2026,4,16,example.com
+TXN10071,CUST-1071,Julia Martin,julia.martin@example.com,24-07-1994,02-01-2025,Apparel,844.91,United Kingdom,2025,1,31,example.com
+TXN10106,CUST-1019,Hannah Smith,hannah.smith@example.com,01-05-2000,17-12-2024,Electronics,1000.24,United Kingdom,2024,12,24,example.com
+TXN10860,CUST-1077,Ethan Smith,ethan.smith@example.com,13-11-1975,28-03-2026,Apparel,208.72,United Kingdom,2026,3,51,example.com
+TXN10435,CUST-1000,John Anderson,john.anderson@example.com,05-12-2009,09-06-2026,Home & Kitchen,897.34,Australia,2026,6,17,example.com
+TXN10102,CUST-1015,Diana Davis,diana.davis@example.com,28-10-1960,23-06-2025,Sports & Outdoors,599.71,Australia,2025,6,65,example.com
