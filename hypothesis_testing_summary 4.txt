@@ -1,0 +1,25 @@
+STATISTICAL HYPOTHESIS TESTING SUMMARY REPORT
+Task 4: Data Storytelling & Statistical Validation
+ApexPlanet Software Pvt. Ltd. | Intern: Shaik Abdul Khadar Sadiq
+
+TEST: Two-Sample Independent T-Test (US vs. UK Purchase Amounts)
+----------------------------------------------------------------------
+Samples:
+  - United States: N = 303, Mean = $656.66, Std Dev = $566.77
+  - United Kingdom: N = 288, Mean = $626.97, Std Dev = $354.28
+  - Observed Difference: $29.70
+
+Hypotheses:
+  - H0: Mean purchase amount in US equals UK (mu_US = mu_UK)
+  - H1: Mean purchase amount in US differs from UK (mu_US != mu_UK)
+  - Alpha: 0.05
+
+Results:
+  - T-Statistic: 0.7593
+  - Degrees of Freedom: 589.00
+  - P-Value: 0.4480
+  - 95% CI of Difference: [$-46.27, $105.66]
+  - Decision: Fail to Reject Null Hypothesis (H0)
+
+Executive Takeaway:
+No statistically significant difference detected (p = 0.4480 >= 0.05). The observed difference of $29.70 is within standard sampling variation. Business strategy can safely standardize pricing tiers, discounting models, and promotional campaigns across both the US and UK markets.
