@@ -1,0 +1,77 @@
+# LinkedIn Video Walkthrough Script (Capstone Portfolio Walkthrough)
+**Task 5: Capstone Integration & Portfolio Finalization**  
+**Presenter:** Shaik Abdul Khadar Sadiq  
+**Role:** Data Analytics Intern at ApexPlanet Software Pvt. Ltd.  
+**Target Duration:** 3 to 5 minutes  
+**Visual Format:** Screen recording touring the master GitHub repository, the visual GitHub Pages website (`index.html`), and the interactive dashboard (`dashboard.html`), with webcam in corner.
+
+---
+
+## Video Timeline & Agenda
+
+1. **Introduction & Graduation Announcement (0:00 - 0:45)** - Milestone context, Offer Letter ID (`APSPL2642568`), and program completion.
+2. **Master Portfolio & Website Tour (0:45 - 2:00)** - Showing the master `README.md` and launching `index.html`.
+3. **Synthesis of 4 Analytical Milestones (2:00 - 3:15)** - Highlighting key results: Cleaning pipeline, SQL EDA, Plotly dashboard, and T-test validation.
+4. **Key Learnings & Business Impact (3:15 - 4:15)** - Translating data to business decisions ($317k winback, pricing parity).
+5. **Acknowledgments & Outro (4:15 - 4:45)** - Thanking ApexPlanet leadership and signing off.
+
+---
+
+## Detailed Spoken Script
+
+### 1. Introduction & Milestone Announcement (0:00 - 0:45)
+* **Visual:** Face camera, screen sharing the master GitHub repository in the background.
+* **Audio (Script):**
+  > "Hello everyone! I am thrilled to announce that I have officially completed my 60-day Data Analytics Internship at ApexPlanet Software Pvt. Ltd.!
+  > Today, I'm presenting Task 5: Capstone Integration and Portfolio Finalization. Over the past several weeks, I took raw customer transactions through the entire analytics lifecycle. Today, I'm giving you a tour of my master portfolio repository and sharing my core reflections from this journey."
+
+---
+
+### 2. Master Portfolio & Website Tour (0:45 - 2:00)
+* **Visual:** Open the master `README.md` in browser/VS Code, scroll down to show badges and workflow diagram, then switch to `index.html` running in the browser.
+* **Audio (Script):**
+  > "I structured my master GitHub repository as a central single point of truth. As you can see in the README, it documents our end-to-end pipeline, key business metrics, and links to all four milestone repositories.
+  > To make this portfolio visual and engaging, I also built a personal website using HTML5 and CSS3 that can be hosted directly on GitHub Pages.
+  > Looking at the site, you immediately see our headline metrics: $623,686 in total revenue analyzed, 947 verified transactions, a $658.59 Average Order Value, and a remarkable $7,172 Customer Lifetime Value.
+  > Visitors can explore each milestone card, view our code, and launch our interactive Plotly dashboard directly with one click."
+
+---
+
+### 3. Synthesis of 4 Analytical Milestones (2:00 - 3:15)
+* **Visual:** Scroll through the project cards on `index.html`, briefly showing the dashboard and PowerPoint deck.
+* **Audio (Script):**
+  > "Let's quickly recap what we accomplished across the four milestones:
+  > * In Task 1: I engineered an automated Python data wrangling pipeline in Pandas, eliminating corrupted dates, missing keys, and price outliers to produce 947 zero-defect records.
+  > * In Task 2: I loaded the data into SQLite, writing business SQL queries and Seaborn charts that revealed Sports & Outdoors as our top-grossing category at $140,800.
+  > * In Task 3: I conducted an RFM customer segmentation and built a standalone interactive Plotly dashboard with cohort retention heatmaps, identifying $306k in VIP Champions and $317k in At-Risk Loyalists.
+  > * In Task 4: I applied inferential statistics—running an independent two-sample T-test with a p-value of 0.448—which scientifically proved pricing parity between US and UK markets."
+
+---
+
+### 4. Key Learnings & Operational Business Impact (3:15 - 4:15)
+* **Visual:** Switch to `internship_reflection.md` or face camera.
+* **Audio (Script):**
+  > "The biggest takeaway from this internship is that data analytics is about driving decisions, not just building charts.
+  > By combining RFM segmentation with cohort analysis, we identified an immediate $317,000 revenue recapture opportunity through automated winback emails.
+  > And by running our T-test, we gave leadership the confidence to deploy unified international pricing across the US and UK, saving months of unnecessary software localization.
+  > Technically, I've deepened my mastery across Python, Pandas, SQLite, Plotly, SciPy, and executive storytelling."
+
+---
+
+### 5. Acknowledgments & Outro (4:15 - 4:45)
+* **Visual:** Face camera, display the conclusion slide of `ApexPlanet_Capstone_Final_Presentation.pptx`.
+* **Audio (Script):**
+  > "I want to extend my heartfelt thanks to Program Coordinator Kundan Kumar and the entire engineering team at ApexPlanet Software Pvt. Ltd. for their mentorship and support throughout this program.
+  > All repository links, code scripts, presentation slides, and the interactive dashboard are live on GitHub. Please check out the link in the post description!
+  > Thank you so much for following my journey, and I look forward to connecting on future data opportunities!"
+
+---
+
+## Screen Recording Checklist for Shaik:
+1. **Tabs to Have Open in Browser:**
+   * Tab 1: Your master GitHub repository page.
+   * Tab 2: Your `index.html` portfolio page (double-click it in your folder to open).
+   * Tab 3: `dashboard.html` (the interactive Plotly dashboard).
+2. **Software:** OBS Studio, Loom, or Zoom (recording screen and webcam).
+3. **Resolution:** 1080p widescreen.
+4. **Duration:** Aim for 3 to 5 minutes total.

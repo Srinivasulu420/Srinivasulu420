@@ -1,0 +1,181 @@
+# Shaik Abdul Khadar Sadiq - Data Analyst Internship Portfolio
+### ApexPlanet Software Pvt. Ltd. | 60-Day Data Analytics Capstone Portfolio
+
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-darkgreen?style=for-the-badge&logo=pandas)
+![SQLite](https://img.shields.io/badge/SQLite-SQL%20Queries-003B57?style=for-the-badge&logo=sqlite)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Dashboard-red?style=for-the-badge&logo=plotly)
+![SciPy](https://img.shields.io/badge/SciPy-Hypothesis%20Testing-blueviolet?style=for-the-badge&logo=scipy)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Executive%20Storytelling-D24726?style=for-the-badge&logo=microsoftpowerpoint)
+![Status](https://img.shields.io/badge/Status-Completed%20%E2%9C%94-success?style=for-the-badge)
+
+---
+
+## 👨‍💻 Intern Profile & Credentials
+
+* **Intern Name:** Shaik Abdul Khadar Sadiq
+* **Program:** Data Analytics 60-Days Internship Program
+* **Host Organization:** ApexPlanet Software Pvt. Ltd.
+* **Internship Offer Letter ID:** `APSPL2642568`
+* **Dates:** 21 July, 2026 – 18 September, 2026
+* **Program Coordinator:** Kundan Kumar
+* **Accreditations:** Recognized under AICTE & MSME Government of India initiatives
+
+---
+
+## 🎯 Executive Project Overview
+
+This master repository consolidates the complete end-to-end data analytics lifecycle executed during the ApexPlanet Internship Program. Working with a raw enterprise customer sales dataset, the project advanced through five distinct phases: automated data wrangling, relational SQL analytics, deep-dive RFM segmentation & cohort modeling, interactive Plotly dashboard engineering, and inferential statistical hypothesis validation.
+
+### 🔄 End-to-End Analytics Workflow Pipeline
+
+```
++---------------------------------------------------------------------------------------------+
+|                                    DATA ANALYTICS PIPELINE                                  |
++---------------------------------------------------------------------------------------------+
+|                                                                                             |
+|   [ RAW DATA ]                                                                              |
+|   1,008 rows of unformatted sales records, duplicate IDs, category typos & corrupted dates   |
+|        │                                                                                    |
+|        ▼                                                                                    |
+|   [ TASK 1: DATA WRANGLING & IMMERSION ]                                                    |
+|   Pandas automated cleaning, regex email validation, median imputation & ISO date parsing   |
+|   ==> Output: clean_customer_transactions.csv (947 verified, zero-defect records)           |
+|        │                                                                                    |
+|        ▼                                                                                    |
+|   [ TASK 2: EXPLORATORY DATA ANALYSIS & SQL ]                                               |
+|   SQLite relational database setup ('transactions.db'), 6 business queries & Seaborn charts  |
+|   ==> Key Discovery: $623k total revenue, Sports & Outdoors #1 ($140k), 50+ age cohort peak  |
+|        │                                                                                    |
+|        ▼                                                                                    |
+|   [ TASK 3: DEEP-DIVE SEGMENTATION & DASHBOARD ]                                            |
+|   RFM customer segmentation, 30-month cohort retention matrix & standalone Plotly dashboard |
+|   ==> Key Discovery: $7,172 LTV, 44 VIP Champions ($306k) vs. 43 At-Risk Loyalists ($317k) |
+|        │                                                                                    |
+|        ▼                                                                                    |
+|   [ TASK 4: STATISTICAL HYPOTHESIS TESTING & STORYTELLING ]                                 |
+|   Independent Two-Sample T-test in SciPy & programmatic 10-slide executive PowerPoint deck  |
+|   ==> Key Discovery: US vs. UK pricing parity proved (t = 0.7593, p = 0.4480 >= 0.05)       |
+|        │                                                                                    |
+|        ▼                                                                                    |
+|   [ TASK 5: CAPSTONE INTEGRATION & PORTFOLIO FINALIZATION ]                                 |
+|   Consolidated master repository, GitHub Pages website, executive deck & reflection         |
+|                                                                                             |
++---------------------------------------------------------------------------------------------+
+```
+
+---
+
+## 🗂️ Milestone Repository Directory
+
+| Milestone | Focus Area | Core Technologies | Primary Deliverables | Repository Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Task 1** | Data Immersion & Wrangling | Python, Pandas, Regex | Automated Cleaning Pipeline, Data Dictionary, Clean CSV | [Task 1 Repo](https://github.com/shaik-sadiq/data-analytics-task-1) |
+| **Task 2** | Exploratory Data Analysis & BI | SQL, SQLite, Seaborn, Matplotlib | Relational Database, 6 Business SQL Queries, EDA Report | [Task 2 Repo](https://github.com/shaik-sadiq/data-analytics-task-2) |
+| **Task 3** | Deep-Dive Analytics & Dashboards | Plotly, RFM Modeling, Cohort Analysis | Standalone HTML Dashboard, RFM Matrix, Retention Curves | [Task 3 Repo](https://github.com/shaik-sadiq/data-analytics-task-3) |
+| **Task 4** | Data Storytelling & Statistical Testing | SciPy, python-pptx, Inferential Stats | Two-Sample T-Test, Executive PowerPoint Presentation | [Task 4 Repo](https://github.com/shaik-sadiq/data-analytics-task-4) |
+| **Task 5** | Capstone Portfolio Finalization | HTML5/CSS3, GitHub Pages, Markdown | Master Portfolio Repo, GitHub Pages Site, Presentation | *Current Repository* |
+
+---
+
+## 📊 Core Business KPIs Summary
+
+| KPI Metric | Value | Formula | Operational Business Significance |
+| :--- | :--- | :--- | :--- |
+| **Total Gross Revenue** | **$623,686.14** | $\sum \text{Purchase Amount}$ | Total revenue generated across active multi-year operational window. |
+| **Total Orders Completed** | **947** | $\text{Count}(\text{transaction\_id})$ | Operational throughput of verified, completed orders. |
+| **Average Order Value (AOV)** | **$658.59** | $\frac{\text{Revenue}}{\text{Orders}}$ | Healthy baseline basket size; informs checkout bundling and discount tiers. |
+| **Customer Purchase Frequency** | **10.89** | $\frac{\text{Orders}}{\text{Unique Customers}}$ | Demonstrates strong product engagement; customers treat catalog as recurring consumable. |
+| **Customer Lifetime Value (LTV)** | **$7,172.17** | $\text{AOV} \times \text{Frequency}$ | Allows marketing to safely allocate up to $500 Customer Acquisition Cost (CAC) for 14x ROI. |
+| **Repeat Purchase Rate (RPR)** | **100%** | $\frac{\text{Repeat Customers}}{\text{Total Customers}}$ | All customers returned for multiple purchases across the cohort timeline. |
+
+---
+
+## 🔍 Detailed Milestone Breakdown
+
+### 🔹 Milestone 1: Data Immersion & Wrangling
+* **Challenge:** Raw transaction logs contained severe anomalies including missing primary keys (1.29%), 5 duplicate transactions, multi-cased category typos (`electrnics`, `Elec`), malformed emails, negative prices (-$150), and corrupted dates (birth years 1845 and 2027).
+* **Engineering Solution:** Developed [`clean_data.py`](https://github.com/shaik-sadiq/data-analytics-task-1) to enforce primary key uniqueness, impute missing prices using category-level medians, map categories to 5 canonical departments, parse ISO 8601 dates, and engineer `customer_age` and `email_domain`.
+* **Deliverable:** `clean_customer_transactions.csv` (947 records, zero missing values, zero duplicates).
+
+### 🔹 Milestone 2: Exploratory Data Analysis & Business Intelligence
+* **Relational Database:** Created `transactions.db` in SQLite and executed 6 business-critical queries answering executive questions.
+* **Key Findings:**
+  * **Top Revenue Category:** `Sports & Outdoors` brought in **$140,844.20** with the highest AOV ($749.17), while `Electronics` had the lowest average ticket ($597.24).
+  * **Geographic Revenue Hubs:** The US ($198.9k) and UK ($180.5k) drive over 60% of total volume; India ($741.64) and Germany ($690.94) deliver the highest average cart values.
+  * **Demographic Driver:** The **50+ age cohort** is our highest-grossing demographic, contributing **$223,854.95** (AOV of $680.41).
+
+### 🔹 Milestone 3: Deep-Dive Customer Segmentation & Dashboard
+* **RFM Customer Segmentation:**
+  * **VIP / Champions (44 accounts | 50.6%):** Generated $306,279. Frequent recent buyers; candidate for VIP Loyalty Club.
+  * **Loyal Customers - At Risk (43 accounts | 49.4%):** Generated $317,407 in historical spend, but dormant >6 months. Primary target for automated 180-day winback email sequences.
+* **Cohort Retention Matrix:** Monthly cohorts exhibit steady 30%-45% repeat rates through month 3 and maintain 15%-40% re-purchases through month 24.
+* **Interactive Tooling:** Developed [`dashboard.html`](dashboard.html) using Plotly with interactive hover cards, line trends, RFM donuts, and a retention heatmap.
+
+### 🔹 Milestone 4: Data Storytelling & Statistical Validation
+* **Research Question:** Does customer transaction spending differ significantly between the United States and the United Kingdom?
+* **Statistical Test:** Independent Two-Sample T-Test ($\alpha = 0.05$):
+  * US Sample: $N = 303$, Mean = **$656.66**, Std Dev = $566.77
+  * UK Sample: $N = 288$, Mean = **$626.97**, Std Dev = $354.28
+  * Test Output: $t = 0.7593$, $p\text{-value} = \mathbf{0.4480}$, $95\%\text{ CI} = [-\$46.27, \$105.66]$
+  * **Decision:** **Fail to Reject $H_0$**. Confirmed that spending difference ($29.70) is random sampling variation. Business can safely standardize pricing and promotional calendars across US and UK markets.
+* **Executive Deck:** Built [`ApexPlanet_Capstone_Final_Presentation.pptx`](ApexPlanet_Capstone_Final_Presentation.pptx) using `python-pptx` (10 widescreen slides).
+
+---
+
+## 🛠️ Technical Skills Matrix
+
+```
+Data Engineering:    Python 3.14 | Pandas | NumPy | Data Profiling | Regex Validation
+Databases & SQL:     SQLite | Relational Schema Design | Aggregations | Window Functions
+Data Visualization:  Plotly.js | Seaborn | Matplotlib | HTML5 Dashboard Design
+Statistical Methods: Inferential Statistics | Hypothesis Testing | Two-Sample T-Test | Levene's Test
+Customer Modeling:   RFM Segmentation | Cohort Retention Analysis | Customer Lifetime Value (LTV)
+Presentation Tools:  python-pptx | Microsoft PowerPoint | Technical Writing | GitHub Pages
+```
+
+---
+
+## 🚀 Quickstart: Running the Portfolio Locally
+
+### Prerequisites
+* Python 3.10+ installed
+* Git installed
+
+### Clone and Launch
+```bash
+# 1. Clone the master repository
+git clone https://github.com/shaik-sadiq/Shaik-Abdul-Khadar-Sadiq-DataAnalyst-Internship-Portfolio.git
+cd Shaik-Abdul-Khadar-Sadiq-DataAnalyst-Internship-Portfolio
+
+# 2. View the interactive dashboard
+# Open dashboard.html in your default web browser
+start dashboard.html  # On Windows
+
+# 3. View the PowerPoint deck
+# Open ApexPlanet_Capstone_Final_Presentation.pptx in Microsoft PowerPoint or Google Slides
+```
+
+---
+
+## 📄 Key Repository Files
+
+* **[`dashboard.html`](dashboard.html)**: Standalone interactive Plotly sales dashboard.
+* **[`index.html`](index.html)**: Visual portfolio website ready for GitHub Pages.
+* **[`ApexPlanet_Capstone_Final_Presentation.pptx`](ApexPlanet_Capstone_Final_Presentation.pptx)**: 10-slide widescreen presentation deck.
+* **[`internship_reflection.md`](internship_reflection.md)**: In-depth reflection on technical growth and business impact.
+* **[`video_walkthrough_script_task5.md`](video_walkthrough_script_task5.md)**: 3-5 minute video script for LinkedIn.
+* **[`linkedin_master_post.md`](linkedin_master_post.md)**: Capstone graduation post template.
+
+---
+
+## 📬 Contact & Acknowledgments
+
+* **Intern:** Shaik Abdul Khadar Sadiq
+* **Role:** Data Analytics Intern
+* **Organization:** ApexPlanet Software Pvt. Ltd.
+* **Email:** official@apexplanet.in | support: apexplanetgaya@gmail.com
+* **Website:** [www.apexplanet.in](https://www.apexplanet.in)
+* **LinkedIn:** [Connect with Shaik](https://www.linkedin.com)
+
+*Special thanks to Program Coordinator Kundan Kumar and the entire ApexPlanet Software engineering team for their guidance throughout this 60-day internship.*
